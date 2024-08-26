@@ -6,4 +6,4 @@ The main code was written in python. Graphical representation was performed usin
 ## Source files
 The source files can be found in the "Source files" folder.
 ## Output files
-The output files can be found in the "Results" folder. Each file summarizes data to generate plots of each figure.
+The output files can be found in the "Article results" folder. Each file *.xlsx file summarizes data that generates plots for each figure. Sheet name and letters correspont to the figure letters.

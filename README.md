@@ -4,7 +4,7 @@ This repository contains data, code, and analysis as described in the paper "The
 ## Pipeline code 
 The main code was written in python. Correlations, differential analysis and graphical representation was performed using R. The code used to generate article figures can be found in the "Analytical pipeline" folder. To utilize scripts download the desired script with the relevant source files. The list of the required files is detailed at the top of the script.
 ## Source files and code
-The source files needed for all scripts can be found in the "Source files" folder. Single cell and protein files needed for the analysis can be found in their respective folders in the "Source files" folder. The code used to create the source files can be found in the "Source file code" folder. Conditions needed to run the source file code are detailed at the top of each script.
+The source files needed for all scripts and source file code can be found on Zenode. 
 ## Graphical pipeline
 Scripts used to create each type of plot can be found in the "Graphical pipeline" folder.
 ## Output files

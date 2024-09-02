@@ -1,0 +1,1128 @@
+ENSG,Name,abs expressing tissues,Class,Type,core/var
+ENSG00000187961,KLHL17,3,E3 ligase ,BTB,variable
+ENSG00000187608,ISG15,4,ubiquitin and UBL proteins,ISG15,variable
+ENSG00000237330,RNF223,15,E3 ligase ,other,variable
+ENSG00000160087,UBE2J2,1,E2 conjugating enzymes,UBC domain & transmembrane domain,variable
+ENSG00000197530,MIB2,1,E3 ligase ,Mindbomb,variable
+ENSG00000162585,FAAP20,0,ubiquitin and UBL binding,DNA repair accessory,variable
+ENSG00000157911,PEX10,1,E3 ligase ,PEX,variable
+ENSG00000158286,RNF207,11,E3 ligase ,TRIM,variable
+ENSG00000162413,KLHL21,2,E3 ligase ,BTB,variable
+ENSG00000171621,SPSB1,7,E3 ligase ,SOCS box,variable
+ENSG00000130939,UBE4B,2,p97 and associates,RING,variable
+ENSG00000116661,FBXO2,20,E3 ligase ,F-box,variable
+ENSG00000132879,FBXO44,6,E3 ligase ,F-box,variable
+ENSG00000116663,FBXO6,3,E3 ligase ,F-box,variable
+ENSG00000197312,DDI2,4,proteasome & associates,aspartic peptidase,variable
+ENSG00000037637,FBXO42,1,E3 ligase ,F-box,variable
+ENSG00000127481,UBR4,0,E3 ligase ,UBR,core
+ENSG00000169914,OTUD3,2,Ub and UBL demodifiers,assorted,variable
+ENSG00000162543,UBXN10,15,p97 and associates,UBX,variable
+ENSG00000090432,MUL1,1,E3 ligase ,other,variable
+ENSG00000090686,USP48,2,ubiquitin and UBL proteins,DUB,variable
+ENSG00000011007,ELOA,1,E3 ligase ,F-box,variable
+ENSG00000158022,TRIM63,15,E3 ligase ,TRIM,variable
+ENSG00000158062,UBXN11,7,p97 and associates,"UBX, SHP, SEP",variable
+ENSG00000142784,WDTC1,2,E3 ligase ,DCAF,variable
+ENSG00000060688,SNRNP40,0,E3 ligase ,DCAF,variable
+ENSG00000162521,RBBP4,0,E3 ligase ,DCAF,core
+ENSG00000116514,RNF19B,3,E3 ligase ,assorted,variable
+ENSG00000116525,TRIM62,5,E3 ligase ,TRIM,variable
+ENSG00000126067,PSMB2,0,proteasome & associates,constitutive,core
+ENSG00000163874,ZC3H12A,15,ubiquitin and UBL binding,UBA,variable
+ENSG00000174574,AKIRIN1,2,proteasome & associates,Akirin,variable
+ENSG00000117399,CDC20,11,E3 ligase ,activator,variable
+ENSG00000187147,RNF220,2,E3 ligase ,other,variable
+ENSG00000222009,BTBD19,10,E3 ligase ,BTB,variable
+ENSG00000126107,HECTD3,0,E3 ligase ,assorted,core
+ENSG00000197429,IPP,1,E3 ligase ,BTB,variable
+ENSG00000132128,LRRC41,0,E3 ligase ,SOCS box,core
+ENSG00000185104,FAF1,2,p97 and associates,"UBX, thioredoxin-like, UBA",variable
+ENSG00000123091,RNF11,2,E3 ligase ,other,variable
+ENSG00000162378,ZYG11B,2,E3 ligase ,substrate adaptors,variable
+ENSG00000203995,ZYG11A,20,E3 ligase ,substrate adaptors,variable
+ENSG00000162402,USP24,3,ubiquitin and UBL proteins,DUB,variable
+ENSG00000162409,PRKAA2,10,ubiquitin and UBL binding,AMP-activated Ser/Thr kinases,variable
+ENSG00000162601,MYSM1,1,Ub and UBL demodifiers,assorted,variable
+ENSG00000162607,USP1,1,Ub and UBL demodifiers,assorted,variable
+ENSG00000177414,UBE2U,4,E2 conjugating enzymes,UBC domain & C-terminal extension,variable
+ENSG00000132485,ZRANB2,1,ubiquitin and UBL binding,mRNA splicing,variable
+ENSG00000154007,ASB17,2,E3 ligase ,SOCS box,variable
+ENSG00000077254,USP33,1,Ub and UBL demodifiers,"DUSP, UBP-ZnF",variable
+ENSG00000174842,GLMN,1,E3 ligase ,CRL regulator,variable
+ENSG00000122481,RWDD3,2,ubiquitin and UBL binding,RWD domain,variable
+ENSG00000143106,PSMA5,0,proteasome & associates,constitutive,core
+ENSG00000162650,ATXN7L2,6,ubiquitin and UBL binding,SCA7,variable
+ENSG00000186150,UBL4B,14,ubiquitin and UBL proteins,chaperones and related,variable
+ENSG00000197323,TRIM33,0,E3 ligase ,TRIM,variable
+ENSG00000134253,TRIM45,7,E3 ligase ,TRIM,variable
+ENSG00000265491,RNF115,4,E3 ligase ,other,variable
+ENSG00000131788,PIAS3,2,E3 ligase ,sumoylation,variable
+ENSG00000265972,TXNIP,13,E3 ligase ,nan,variable
+ENSG00000264522,OTUD7B,4,p97 and associates,OTU ,variable
+ENSG00000143379,SETDB1,0,ubiquitin and UBL binding,repression,variable
+ENSG00000143409,MINDY1,3,Ub and UBL demodifiers,nan,variable
+ENSG00000159352,PSMD4,1,proteasome & associates,nonATPase,variable
+ENSG00000159377,PSMB4,1,proteasome & associates,constitutive,variable
+ENSG00000143569,UBAP2L,0,ubiquitin and UBL binding,RNA polymerase II removal,core
+ENSG00000160714,UBE2Q1,0,E2 conjugating enzymes,UBC domain & RWD-like domain ,core
+ENSG00000163357,DCST1,10,E3 ligase ,other,variable
+ENSG00000163462,TRIM46,22,E3 ligase ,TRIM,variable
+ENSG00000160803,UBQLN4,2,proteasome & associates,UBL,variable
+ENSG00000254726,MEX3A,10,E3 ligase ,MEX3,variable
+ENSG00000132716,DCAF8,1,E3 ligase ,DCAF,variable
+ENSG00000143222,UFC1,0,E2 conjugating enzymes,nan,core
+ENSG00000143258,USP21,0,Ub and UBL demodifiers,assorted,core
+ENSG00000143164,DCAF6,2,E3 ligase ,DCAF,variable
+ENSG00000076321,KLHL20,0,E3 ligase ,BTB,variable
+ENSG00000135870,RC3H1,0,E3 ligase ,Roquin,variable
+ENSG00000116161,CACYBP,2,E3 ligase ,none,variable
+ENSG00000143207,RFWD2,0,E3 ligase ,DCAF,core
+ENSG00000169905,TOR1AIP2,2,E3 ligase ,DCAF,variable
+ENSG00000121481,RNF2,0,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000116679,IVNS1ABP,2,E3 ligase ,BTB,variable
+ENSG00000116750,UCHL5,2,proteasome & associates,UCH,variable
+ENSG00000077152,UBE2T,14,E2 conjugating enzymes,UBC domain & C-terminal extension,variable
+ENSG00000117153,KLHL12,0,E3 ligase ,BTB,core
+ENSG00000163444,TMEM183A,3,E3 ligase ,F-box,variable
+ENSG00000198625,MDM4,1,E3 ligase ,Mdm,variable
+ENSG00000117222,RBBP5,0,E3 ligase ,DCAF,variable
+ENSG00000263528,IKBKE,11,ubiquitin and UBL proteins,assorted enzymes ,variable
+ENSG00000180667,YOD1,4,ubiquitin and UBL proteins,DUB,variable
+ENSG00000082512,TRAF5,9,E3 ligase ,"TRAF-type ZnF, MATH/TRAF ",variable
+ENSG00000143476,DTL,15,E3 ligase ,DCAF,variable
+ENSG00000136636,KCTD3,4,E3 ligase ,BTB,variable
+ENSG00000116141,MARK1,7,ubiquitin and UBL binding,microtubule-associated Ser/Thr kinases,variable
+ENSG00000143756,FBXO28,0,E3 ligase ,F-box,variable
+ENSG00000162923,WDR26,1,E3 ligase ,subunit,variable
+ENSG00000143751,SDE2,1,ubiquitin and UBL proteins,nucleic acid processes,variable
+ENSG00000154370,TRIM11,3,E3 ligase ,TRIM,variable
+ENSG00000162931,TRIM17,15,E3 ligase ,TRIM,variable
+ENSG00000168159,RNF187,2,E3 ligase ,TRIM,variable
+ENSG00000119283,TRIM67,26,E3 ligase ,TRIM,variable
+ENSG00000010072,SPRTN,1,p97 and associates,metalloprotease,variable
+ENSG00000168264,IRF2BP2,1,E3 ligase ,IRF2 binding,variable
+ENSG00000116957,TBCE,2,ubiquitin and UBL proteins,chaperones and related,variable
+ENSG00000162722,TRIM58,17,E3 ligase ,TRIM,variable
+ENSG00000151692,RNF144A,10,E3 ligase ,assorted,variable
+ENSG00000119771,KLHL29,9,E3 ligase ,BTB,variable
+ENSG00000173960,UBXN2A,3,p97 and associates,"UBX, SHP, SEP",variable
+ENSG00000138100,TRIM54,20,E3 ligase ,TRIM,variable
+ENSG00000158019,BRE,2,E3 ligase ,BRCA1-specific,variable
+ENSG00000119801,YPEL5,1,E3 ligase ,subunit,variable
+ENSG00000115760,BIRC6,0,E2 conjugating enzymes,E2-E3 chimera,variable
+ENSG00000163214,DHX57,1,ubiquitin and UBL binding,"UBA, RWD domain",variable
+ENSG00000171150,SOCS5,2,E3 ligase ,SOCS box,variable
+ENSG00000138081,FBXO11,1,E3 ligase ,F-box,variable
+ENSG00000115239,ASB3,0,E3 ligase ,SOCS box,variable
+ENSG00000068878,PSME4,2,proteasome & associates,activator,variable
+ENSG00000143947,RPS27A,2,ubiquitin and UBL proteins,ribosomal ubiquitin fusion,variable
+ENSG00000115392,FANCL,4,E3 ligase ,other,variable
+ENSG00000115464,USP34,0,ubiquitin and UBL proteins,DUB,variable
+ENSG00000173163,COMMD1,1,E3 ligase ,CRL regulator,variable
+ENSG00000197329,PELI1,6,E3 ligase ,Pellino,variable
+ENSG00000087338,GMCL1,0,E3 ligase ,BTB,variable
+ENSG00000163013,FBXO41,16,E3 ligase ,F-box,variable
+ENSG00000124356,STAMBP,1,Ub and UBL demodifiers,assorted,variable
+ENSG00000115289,PCGF1,0,ubiquitin and UBL proteins,E3 ligases,core
+ENSG00000115307,AUP1,1,ubiquitin and UBL binding,ERAD cofactor,variable
+ENSG00000176407,KCMF1,1,E3 ligase ,TRAC-1,variable
+ENSG00000168894,RNF181,1,E3 ligase ,other,variable
+ENSG00000168883,USP39,1,Ub and UBL demodifiers,UBP-ZnF,variable
+ENSG00000239305,RNF103,3,E3 ligase ,other,variable
+ENSG00000153561,RMND5A,6,E3 ligase ,subunit,variable
+ENSG00000144021,CIAO1,0,E3 ligase ,DCAF,core
+ENSG00000163121,NEURL3,18,E3 ligase ,Neuralized,variable
+ENSG00000135945,REV1,1,ubiquitin and UBL binding,dCTP transferase,variable
+ENSG00000170500,LONRF2,15,E3 ligase ,LON,variable
+ENSG00000163162,RNF149,2,E3 ligase ,Goliath,variable
+ENSG00000153201,RANBP2,0,E3 ligase ,sumoylation,core
+ENSG00000172985,SH3RF3,8,E3 ligase ,SH3,variable
+ENSG00000153107,ANAPC1,1,E3 ligase ,subunit,variable
+ENSG00000144224,UBXN4,0,p97 and associates,"UBX, thioredoxin-like",core
+ENSG00000144228,SPOPL,3,E3 ligase ,BTB,variable
+ENSG00000196151,WDSUB1,0,E3 ligase ,UBOX,variable
+ENSG00000136536,MARCH7,0,E3 ligase ,MARCH,core
+ENSG00000136560,TANK,2,ubiquitin and UBL binding,nan,variable
+ENSG00000115233,PSMD14,3,proteasome & associates,nonATPase,variable
+ENSG00000082438,COBLL1,12,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000239474,KLHL41,11,E3 ligase ,BTB,variable
+ENSG00000213160,KLHL23,6,E3 ligase ,BTB,variable
+ENSG00000144357,UBR3,2,E3 ligase ,UBR,variable
+ENSG00000115827,DCAF17,0,E3 ligase ,DCAF,variable
+ENSG00000116044,NFE2L2,2,proteasome & associates,transcription factor,variable
+ENSG00000170035,UBE2E3,1,E2 conjugating enzymes,UBC domain & N-terminal extension,variable
+ENSG00000163012,ZSWIM2,9,E3 ligase ,other,variable
+ENSG00000138411,HECW2,10,E3 ligase ,WW & C2,variable
+ENSG00000196141,SPATS2L,4,ubiquitin and UBL binding,UBA,variable
+ENSG00000116030,SUMO1,0,ubiquitin and UBL proteins,SUMO,core
+ENSG00000138442,WDR12,3,E3 ligase ,DCAF,variable
+ENSG00000138376,BARD1,9,E3 ligase ,BRCA1-associated,variable
+ENSG00000144583,MARCH4,25,E3 ligase ,MARCH,variable
+ENSG00000135913,USP37,1,Ub and UBL demodifiers,"PH-like, UIM",variable
+ENSG00000163481,RNF25,0,E3 ligase ,other,core
+ENSG00000158552,ZFAND2B,2,proteasome & associates,AN1,variable
+ENSG00000163516,ANKZF1,3,p97 and associates,"VIM, ankyrin repeats",variable
+ENSG00000135924,DNAJB2,1,ubiquitin and UBL binding,HSP70 cochaperone,variable
+ENSG00000036257,CUL3,2,E3 ligase ,Cullin,variable
+ENSG00000144468,RHBDD1,1,p97 and associates,serine protease,variable
+ENSG00000153827,TRIP12,2,proteasome & associates,HECT,variable
+ENSG00000153832,FBXO36,5,E3 ligase ,F-box,variable
+ENSG00000173692,PSMD1,2,proteasome & associates,nonATPase,variable
+ENSG00000144524,COPS7B,0,Ub and UBL demodifiers,deNEDDylase,core
+ENSG00000085982,USP40,1,ubiquitin and UBL proteins,DUB,variable
+ENSG00000198612,COPS8,2,Ub and UBL demodifiers,deNEDDylase,variable
+ENSG00000177483,RBM44,8,ubiquitin and UBL binding,mRNA splicing,variable
+ENSG00000184182,UBE2F,1,E2 conjugating enzymes,nan,variable
+ENSG00000168427,KLHL30,18,E3 ligase ,BTB,variable
+ENSG00000065802,ASB1,1,E3 ligase ,SOCS box,variable
+ENSG00000113851,CRBN,0,E3 ligase ,DCAF,core
+ENSG00000070950,RAD18,0,E3 ligase ,SAP,variable
+ENSG00000134086,VHL,1,E3 ligase ,VHL,variable
+ENSG00000075975,MKRN2,2,E3 ligase ,Makorin,variable
+ENSG00000144712,CAND2,9,E3 ligase ,CRL regulator,variable
+ENSG00000182247,UBE2E2,2,E2 conjugating enzymes,UBC domain & N-terminal extension,variable
+ENSG00000170142,UBE2E1,0,E2 conjugating enzymes,UBC domain & N-terminal extension,core
+ENSG00000151092,NGLY1,3,proteasome & associates,deglycosylase,variable
+ENSG00000206557,TRIM71,25,E3 ligase ,TRIM,variable
+ENSG00000153558,FBXL2,10,E3 ligase ,F-box,variable
+ENSG00000114742,WDR48,0,ubiquitin and UBL proteins,DUB modulator,variable
+ENSG00000157119,KLHL40,13,E3 ligase ,BTB,variable
+ENSG00000163788,SNRK,1,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000114648,KLHL18,0,E3 ligase ,BTB,variable
+ENSG00000177479,ARIH2,1,E3 ligase ,Ariadne,variable
+ENSG00000172046,USP19,1,ubiquitin and UBL proteins,DUB,variable
+ENSG00000114316,USP4,1,ubiquitin and UBL proteins,DUB,variable
+ENSG00000164068,RNF123,3,E3 ligase ,SPRY but not TRIM,variable
+ENSG00000182179,UBA7,8,E1 activating enzymes,nan,variable
+ENSG00000183763,TRAIP,4,E3 ligase ,other,variable
+ENSG00000004534,RBM6,0,ubiquitin and UBL binding,mRNA splicing,core
+ENSG00000003756,RBM5,0,ubiquitin and UBL binding,mRNA splicing,core
+ENSG00000114735,HEMK1,3,ubiquitin and UBL binding,mitochondrial,variable
+ENSG00000114737,CISH,18,E3 ligase ,SOCS box,variable
+ENSG00000145041,DCAF1,2,E3 ligase ,DCAF,variable
+ENSG00000164091,WDR82,0,E3 ligase ,DCAF,core
+ENSG00000163930,BAP1,3,Ub and UBL demodifiers,nan,variable
+ENSG00000239388,ASB14,3,E3 ligase ,SOCS box,variable
+ENSG00000168301,KCTD6,3,E3 ligase ,BTB,variable
+ENSG00000163635,ATXN7,1,ubiquitin and UBL binding,activation,variable
+ENSG00000163636,PSMD6,2,proteasome & associates,nonATPase,variable
+ENSG00000163376,KBTBD8,15,E3 ligase ,BTB,variable
+ENSG00000144744,UBA3,1,E1 activating enzymes,nan,variable
+ENSG00000163602,RYBP,1,ubiquitin and UBL binding,repression,variable
+ENSG00000121440,PDZRN3,14,E3 ligase ,PDZ,variable
+ENSG00000138468,SENP7,1,Ub and UBL demodifiers,deSUMOylase,variable
+ENSG00000114423,CBLB,5,E3 ligase ,"CBL, UBA",variable
+ENSG00000198919,DZIP3,6,E3 ligase ,other,variable
+ENSG00000163833,FBXO40,20,E3 ligase ,F-box,variable
+ENSG00000196981,WDR5B,1,E3 ligase ,DCAF,variable
+ENSG00000163840,DTX3L,6,E3 ligase ,Deltex,variable
+ENSG00000114626,ABTB1,4,E3 ligase ,BTB,variable
+ENSG00000187715,KBTBD12,18,E3 ligase ,BTB,variable
+ENSG00000081307,UBA5,1,E1 activating enzymes,nan,variable
+ENSG00000129055,ANAPC13,1,E3 ligase ,subunit,variable
+ENSG00000174579,MSL2,1,E3 ligase ,other,variable
+ENSG00000114098,ARMC8,2,E3 ligase ,subunit,variable
+ENSG00000155890,TRIM42,1,E3 ligase ,TRIM,variable
+ENSG00000175093,SPSB4,20,E3 ligase ,SOCS box,variable
+ENSG00000114125,RNF7,1,E3 ligase ,RBX RING,variable
+ENSG00000071794,HLTF,4,E3 ligase ,other,variable
+ENSG00000082996,RNF13,3,E3 ligase ,Goliath,variable
+ENSG00000181788,SIAH2,6,E3 ligase ,"SIAH-type ZnF, SIA TRAF-like domain",variable
+ENSG00000213186,TRIM59,13,E3 ligase ,TRIM,variable
+ENSG00000058056,USP13,6,Ub and UBL demodifiers,"UBP-ZnF, UBA",variable
+ENSG00000043093,DCUN1D1,1,E3 ligase ,NEDDylation,variable
+ENSG00000172578,KLHL6,9,E3 ligase ,BTB,variable
+ENSG00000114796,KLHL24,3,E3 ligase ,BTB,variable
+ENSG00000175166,PSMD2,1,proteasome & associates,nonATPase,variable
+ENSG00000177383,MAGEF1,3,E3 ligase ,MAGE,variable
+ENSG00000156931,VPS8,0,E3 ligase ,VPS-associated,variable
+ENSG00000163904,SENP2,1,Ub and UBL demodifiers,deSUMOylase,variable
+ENSG00000061938,TNK2,4,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000163960,UBXN7,0,p97 and associates,"UBX, thioredoxin-like, UBA",variable
+ENSG00000163961,RNF168,1,E3 ligase ,other,variable
+ENSG00000185798,WDR53,1,E3 ligase ,DCAF,variable
+ENSG00000174013,FBXO45,6,E3 ligase ,F-box,variable
+ENSG00000119231,SENP5,0,Ub and UBL demodifiers,deSUMOylase,variable
+ENSG00000185619,PCGF3,0,ubiquitin and UBL proteins,E3 ligases,core
+ENSG00000178222,RNF212,13,E3 ligase ,other,variable
+ENSG00000090316,MAEA,1,E3 ligase ,subunit,variable
+ENSG00000168936,TMEM129,0,E3 ligase ,nan,core
+ENSG00000063978,RNF4,0,E3 ligase ,other,core
+ENSG00000168884,TNIP2,4,ubiquitin and UBL binding,UBAN & NEMO-type ZnF,variable
+ENSG00000118564,FBXL5,1,E3 ligase ,F-box,variable
+ENSG00000163257,DCAF16,0,E3 ligase ,DCAF,variable
+ENSG00000053900,ANAPC4,0,E3 ligase ,subunit,core
+ENSG00000109790,KLHL5,5,E3 ligase ,BTB,variable
+ENSG00000035928,RFC1,0,ubiquitin and UBL binding,DNA polymerase clamp loader,variable
+ENSG00000078140,UBE2K,0,E2 conjugating enzymes,UBC domain & UBA domain,core
+ENSG00000078177,N4BP2,3,ubiquitin and UBL binding,DNA nicking endonuclease,variable
+ENSG00000154277,UCHL1,22,Ub and UBL demodifiers,nan,variable
+ENSG00000182308,DCAF4L1,4,E3 ligase ,DCAF,variable
+ENSG00000170448,NFXL1,1,E3 ligase ,NFX,variable
+ENSG00000109184,DCUN1D4,2,E3 ligase ,NEDDylation,variable
+ENSG00000109189,USP46,7,Ub and UBL demodifiers,assorted,variable
+ENSG00000072201,LNX1,10,E3 ligase ,PDZ,variable
+ENSG00000205678,TECRL,21,ubiquitin and UBL proteins,assorted enzymes ,variable
+ENSG00000033178,UBA6,0,E1 activating enzymes,nan,variable
+ENSG00000163743,RCHY1,1,E3 ligase ,other,variable
+ENSG00000138663,COPS4,1,Ub and UBL demodifiers,deNEDDylase,variable
+ENSG00000145332,KLHL8,1,E3 ligase ,BTB,variable
+ENSG00000138642,HERC6,3,E3 ligase ,RCC1,variable
+ENSG00000138646,HERC5,8,E3 ligase ,RCC1,variable
+ENSG00000138641,HERC3,3,E3 ligase ,RCC1,variable
+ENSG00000163104,SMARCAD1,1,ubiquitin and UBL binding,chromatin remodeling,variable
+ENSG00000109332,UBE2D3,1,E2 conjugating enzymes,UBC domain only ,variable
+ENSG00000138778,CENPE,6,ubiquitin and UBL binding,SIM,variable
+ENSG00000145390,USP53,8,Ub and UBL demodifiers,"assorted, large",variable
+ENSG00000170153,RNF150,12,E3 ligase ,Goliath,variable
+ENSG00000170185,USP38,1,Ub and UBL demodifiers,"assorted, large",variable
+ENSG00000164162,ANAPC10,1,E3 ligase ,subunit,variable
+ENSG00000164164,OTUD4,2,Ub and UBL demodifiers,assorted,variable
+ENSG00000109670,FBXW7,6,E3 ligase ,F-box,variable
+ENSG00000109654,TRIM2,9,E3 ligase ,TRIM,variable
+ENSG00000145428,RNF175,19,E3 ligase ,other,variable
+ENSG00000145416,MARCH1,3,E3 ligase ,MARCH,variable
+ENSG00000183439,TRIM61,13,E3 ligase ,TRIM,variable
+ENSG00000109466,KLHL2,7,E3 ligase ,BTB,variable
+ENSG00000154447,SH3RF1,4,E3 ligase ,SH3,variable
+ENSG00000164117,FBXO8,1,E3 ligase ,F-box,variable
+ENSG00000164122,ASB5,23,E3 ligase ,SOCS box,variable
+ENSG00000182552,RWDD4,3,ubiquitin and UBL binding,RWD domain,variable
+ENSG00000109775,UFSP2,2,Ub and UBL demodifiers,deURMylase,variable
+ENSG00000179046,TRIML2,12,E3 ligase ,TRIM,variable
+ENSG00000184108,TRIML1,2,E3 ligase ,TRIM,variable
+ENSG00000215218,UBE2QL1,22,E2 conjugating enzymes,UBC domain only,variable
+ENSG00000145495,MARCH6,0,E3 ligase ,MARCH,core
+ENSG00000154124,OTULIN,5,Ub and UBL demodifiers,assorted,variable
+ENSG00000183580,FBXL7,13,E3 ligase ,F-box,variable
+ENSG00000183654,MARCH11,26,E3 ligase ,MARCH,variable
+ENSG00000145604,SKP2,3,E3 ligase ,F-box,variable
+ENSG00000132356,PRKAA1,1,ubiquitin and UBL binding,AMP-activated Ser/Thr kinases,variable
+ENSG00000151876,FBXO4,0,E3 ligase ,F-box,variable
+ENSG00000164287,CDC20B,7,E3 ligase ,activator,variable
+ENSG00000095015,MAP3K1,6,E3 ligase ,other,variable
+ENSG00000049167,ERCC8,0,E3 ligase ,DCAF,variable
+ENSG00000164197,RNF180,2,E3 ligase ,other,variable
+ENSG00000113595,TRIM23,3,E3 ligase ,TRIM,variable
+ENSG00000172062,SMN1,0,ubiquitin and UBL binding,mRNA splicing,variable
+ENSG00000171617,ENC1,13,E3 ligase ,BTB,variable
+ENSG00000122008,POLK,1,ubiquitin and UBL binding,DNA polymerase,variable
+ENSG00000164309,CMYA5,13,E3 ligase ,TRIM,variable
+ENSG00000152422,XRCC4,1,ubiquitin and UBL binding,DNA repair accessory,variable
+ENSG00000113369,ARRDC3,6,E3 ligase ,nan,variable
+ENSG00000164292,RHOBTB3,9,E3 ligase ,BTB,variable
+ENSG00000145743,FBXL17,4,E3 ligase ,F-box,variable
+ENSG00000198961,PJA2,1,E3 ligase ,Praja,variable
+ENSG00000152503,TRIM36,23,E3 ligase ,TRIM,variable
+ENSG00000145780,FEM1C,2,E3 ligase ,substrate adaptors,variable
+ENSG00000173926,MARCH3,14,E3 ligase ,MARCH,variable
+ENSG00000113558,SKP1,1,E3 ligase ,CRL adaptor,variable
+ENSG00000119048,UBE2B,1,E2 conjugating enzymes,UBC domain only ,variable
+ENSG00000043143,JADE2,4,E3 ligase ,PHD-type ZnF,variable
+ENSG00000146021,KLHL3,7,E3 ligase ,BTB,variable
+ENSG00000094880,CDC23,0,E3 ligase ,subunit,variable
+ENSG00000131508,UBE2D2,0,E2 conjugating enzymes,UBC domain only ,core
+ENSG00000013561,RNF14,1,E3 ligase ,RWD,variable
+ENSG00000131507,NDFIP1,3,E3 ligase ,nan,variable
+ENSG00000156463,SH3RF2,23,E3 ligase ,SH3,variable
+ENSG00000145868,FBXO38,0,E3 ligase ,F-box,core
+ENSG00000145901,TNIP1,4,ubiquitin and UBL binding,UBAN,variable
+ENSG00000145860,RNF145,3,E3 ligase ,other,variable
+ENSG00000164332,UBLCP1,0,ubiquitin and UBL proteins,assorted enzymes ,core
+ENSG00000072803,FBXW11,2,E3 ligase ,F-box,variable
+ENSG00000168246,UBTD2,3,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000214357,NEURL1B,13,E3 ligase ,Neuralized,variable
+ENSG00000113194,FAF2,0,p97 and associates,"UBX, thioredoxin-like, UBA",variable
+ENSG00000146083,RNF44,1,E3 ligase ,other,variable
+ENSG00000087206,UIMC1,2,ubiquitin and UBL binding,RAP80 NTD,variable
+ENSG00000145916,RMND5B,2,E3 ligase ,subunit,variable
+ENSG00000244234,GMCL1P1,2,E3 ligase ,BTB,variable
+ENSG00000161011,SQSTM1,2,proteasome & associates,PB1,variable
+ENSG00000113269,RNF130,5,E3 ligase ,Goliath,variable
+ENSG00000146054,TRIM7,16,E3 ligase ,TRIM,variable
+ENSG00000146063,TRIM41,1,E3 ligase ,TRIM,variable
+ENSG00000183718,TRIM52,0,E3 ligase ,TRIM,core
+ENSG00000124535,WRNIP1,0,ubiquitin and UBL binding,DNA polymerase accessory,core
+ENSG00000180822,PSMG4,1,proteasome & associates,core particle,variable
+ENSG00000010017,RANBP9,3,E3 ligase ,subunit,variable
+ENSG00000180537,RNF182,19,E3 ligase ,other,variable
+ENSG00000007944,MYLIP,8,E3 ligase ,other,variable
+ENSG00000124789,NUP153,0,ubiquitin and UBL binding,RanBP2-type ZnF,core
+ENSG00000187566,NHLRC1,6,E3 ligase ,other,variable
+ENSG00000137393,RNF144B,12,E3 ligase ,assorted,variable
+ENSG00000111802,TDP2,1,ubiquitin and UBL binding,5'-tyrosyl DNA phosphodiesterase,variable
+ENSG00000112343,TRIM38,8,E3 ligase ,TRIM,variable
+ENSG00000204713,TRIM27,2,E3 ligase ,TRIM,variable
+ENSG00000204619,PPP1R11,1,E3 ligase ,nan,variable
+ENSG00000204618,RNF39,16,E3 ligase ,SPRY but not TRIM,variable
+ENSG00000204616,TRIM31,14,E3 ligase ,TRIM,variable
+ENSG00000234127,TRIM26,1,E3 ligase ,TRIM,variable
+ENSG00000204599,TRIM39,1,E3 ligase ,TRIM,variable
+ENSG00000204463,BAG6,3,proteasome & associates,chaperone,variable
+ENSG00000204308,RNF5,1,E3 ligase ,other,variable
+ENSG00000204264,PSMB8,8,proteasome & associates,specialized,variable
+ENSG00000240065,PSMB9,5,proteasome & associates,specialized,variable
+ENSG00000204227,RING1,0,ubiquitin and UBL proteins,E3 ligases,core
+ENSG00000204209,DAXX,1,ubiquitin and UBL binding,protein folding & quality control,variable
+ENSG00000196821,C6orf106,1,ubiquitin and UBL binding,UBA,variable
+ENSG00000112078,KCTD20,1,E3 ligase ,BTB,variable
+ENSG00000112130,RNF8,0,E3 ligase ,other,variable
+ENSG00000156639,ZFAND3,2,ubiquitin and UBL binding,A20,variable
+ENSG00000183826,BTBD9,3,E3 ligase ,BTB,variable
+ENSG00000164663,USP49,0,Ub and UBL demodifiers,UBP-ZnF,variable
+ENSG00000024048,UBR2,3,proteasome & associates,UBR,variable
+ENSG00000124702,KLHDC3,3,E3 ligase ,substrate adaptors,variable
+ENSG00000044090,CUL7,2,E3 ligase ,Cullin,variable
+ENSG00000112659,CUL9,0,E3 ligase ,Cullin,variable
+ENSG00000170734,POLH,1,ubiquitin and UBL binding,DNA polymerase,variable
+ENSG00000112146,FBXO9,1,E3 ligase ,F-box,variable
+ENSG00000124743,KLHL31,16,E3 ligase ,BTB,variable
+ENSG00000112200,ZNF451,0,E3 ligase ,sumoylation,variable
+ENSG00000112208,BAG2,11,proteasome & associates,BAG,variable
+ENSG00000112701,SENP6,0,Ub and UBL demodifiers,deSUMOylase,core
+ENSG00000146247,PHIP,0,E3 ligase ,DCAF,variable
+ENSG00000005700,IBTK,4,E3 ligase ,BTB,variable
+ENSG00000013392,RWDD2A,6,ubiquitin and UBL binding,RWD domain,variable
+ENSG00000135334,AKIRIN2,2,proteasome & associates,Akirin,variable
+ENSG00000198833,UBE2J1,2,E2 conjugating enzymes,UBC domain & transmembrane domain,variable
+ENSG00000014123,UFL1,2,E3 ligase ,UFMylation,variable
+ENSG00000186231,KLHL32,19,E3 ligase ,BTB,variable
+ENSG00000112234,FBXL4,2,E3 ligase ,F-box,variable
+ENSG00000123552,USP45,3,Ub and UBL demodifiers,UBP-ZnF,variable
+ENSG00000085382,HACE1,4,E3 ligase ,ankyrin repeats,variable
+ENSG00000081087,OSTM1,3,E3 ligase ,none,variable
+ENSG00000056972,TRAF3IP2,7,E3 ligase ,nan,variable
+ENSG00000111832,RWDD1,3,ubiquitin and UBL binding,RWD domain,variable
+ENSG00000153975,ZUFSP,0,Ub and UBL demodifiers,DUB,variable
+ENSG00000146373,RNF217,4,E3 ligase ,assorted,variable
+ENSG00000118518,RNF146,3,E3 ligase ,Deltex,variable
+ENSG00000112339,HBS1L,2,ubiquitin and UBL binding,translation QC factor,variable
+ENSG00000118503,TNFAIP3,9,E3 ligase ,with OTU,variable
+ENSG00000118496,FBXO30,2,E3 ligase ,F-box,variable
+ENSG00000146414,SHPRH,1,E3 ligase ,other,variable
+ENSG00000055208,TAB2,1,ubiquitin and UBL binding,RanBP2-type ZnF,variable
+ENSG00000131023,LATS1,0,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000112029,FBXO5,2,E3 ligase ,F-box,variable
+ENSG00000091844,RGS17,12,ubiquitin and UBL binding,SIM,variable
+ENSG00000130338,TULP4,3,E3 ligase ,SOCS box,variable
+ENSG00000185345,PARK2,10,proteasome & associates,"RING, UBL",variable
+ENSG00000008018,PSMB1,1,proteasome & associates,constitutive,variable
+ENSG00000178381,ZFAND2A,3,proteasome & associates,AN1,variable
+ENSG00000157778,PSMG3,1,proteasome & associates,core particle,variable
+ENSG00000155034,FBXL18,3,E3 ligase ,F-box,variable
+ENSG00000011275,RNF216,1,E3 ligase ,assorted,variable
+ENSG00000157999,ANKRD61,1,E3 ligase ,SOCS box,variable
+ENSG00000106346,USP42,1,Ub and UBL demodifiers,"assorted, large",variable
+ENSG00000122550,KLHL7,4,E3 ligase ,BTB,variable
+ENSG00000180233,ZNRF2,2,E3 ligase ,ZNRF,variable
+ENSG00000106125,MINDY4,8,Ub and UBL demodifiers,nan,variable
+ENSG00000170852,KBTBD2,1,E3 ligase ,BTB,variable
+ENSG00000122557,HERPUD2,1,ubiquitin and UBL proteins,ubiquilin adjacent,variable
+ENSG00000006715,VPS41,2,E3 ligase ,VPS-associated,variable
+ENSG00000106588,PSMA2,1,proteasome & associates,constitutive,variable
+ENSG00000002746,HECW1,23,E3 ligase ,WW & C2,variable
+ENSG00000078967,UBE2D4,3,E2 conjugating enzymes,UBC domain only ,variable
+ENSG00000136274,NACAD,13,ubiquitin and UBL binding,nascent peptide binding,variable
+ENSG00000106078,COBL,18,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000155428,TRIM74,4,E3 ligase ,TRIM,variable
+ENSG00000146755,TRIM50,11,E3 ligase ,TRIM,variable
+ENSG00000178809,TRIM73,4,E3 ligase ,TRIM,variable
+ENSG00000091073,DTX2,8,E3 ligase ,Deltex,variable
+ENSG00000001629,ANKIB1,0,E3 ligase ,"Ariadne, ankyrin repeats, UIM",variable
+ENSG00000005981,ASB4,20,E3 ligase ,SOCS box,variable
+ENSG00000127922,SEM1,1,proteasome & associates,nonATPase,variable
+ENSG00000198742,SMURF1,1,E3 ligase ,WW & C2,variable
+ENSG00000146833,TRIM4,0,E3 ligase ,TRIM,variable
+ENSG00000168090,COPS6,0,Ub and UBL demodifiers,deNEDDylase,core
+ENSG00000106336,FBXO24,2,E3 ligase ,F-box,variable
+ENSG00000172354,GNB2,2,E3 ligase ,DCAF,variable
+ENSG00000169871,TRIM56,4,E3 ligase ,TRIM,variable
+ENSG00000161040,FBXL13,5,E3 ligase ,F-box,variable
+ENSG00000161057,PSMC2,1,proteasome & associates,ATPase,variable
+ENSG00000146776,ATXN7L1,4,ubiquitin and UBL binding,SCA7,variable
+ENSG00000105879,CBLL1,1,E3 ligase ,Hakai,variable
+ENSG00000188050,RNF133,14,E3 ligase ,Goliath,variable
+ENSG00000235631,RNF148,11,E3 ligase ,Goliath,variable
+ENSG00000164675,IQUB,9,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000146809,ASB15,14,E3 ligase ,SOCS box,variable
+ENSG00000186591,UBE2H,0,E2 conjugating enzymes,UBC domain & C-terminal extension,core
+ENSG00000091732,ZC3HC1,1,E3 ligase ,none,variable
+ENSG00000128607,KLHDC10,2,E3 ligase ,substrate adaptors,variable
+ENSG00000128585,MKLN1,0,E3 ligase ,subunit,variable
+ENSG00000080802,CNOT4,1,E3 ligase ,other,variable
+ENSG00000122779,TRIM24,4,E3 ligase ,TRIM,variable
+ENSG00000064393,HIPK2,10,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000133606,MKRN1,2,E3 ligase ,Makorin,variable
+ENSG00000055130,CUL1,2,E3 ligase ,Cullin,variable
+ENSG00000164897,TMUB1,2,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000146926,ASB10,16,E3 ligase ,SOCS box,variable
+ENSG00000013374,NUB1,0,p97 and associates,"UBX, VBM, UBL, UBA",core
+ENSG00000105982,RNF32,4,E3 ligase ,other,variable
+ENSG00000009335,UBE3C,1,proteasome & associates,HECT,variable
+ENSG00000147364,FBXO25,2,E3 ligase ,F-box,variable
+ENSG00000176595,KBTBD11,15,E3 ligase ,BTB,variable
+ENSG00000154359,LONRF1,2,E3 ligase ,LON,variable
+ENSG00000008853,RHOBTB2,7,E3 ligase ,BTB,variable
+ENSG00000104756,KCTD9,7,E3 ligase ,BTB,variable
+ENSG00000104228,TRIM35,1,E3 ligase ,TRIM,variable
+ENSG00000214050,FBXO16,18,E3 ligase ,F-box,variable
+ENSG00000104691,UBXN8,5,p97 and associates,UBX,variable
+ENSG00000133874,RNF122,12,E3 ligase ,other,variable
+ENSG00000104365,IKBKB,2,ubiquitin and UBL proteins,assorted enzymes ,variable
+ENSG00000120925,RNF170,2,E3 ligase ,other,variable
+ENSG00000169139,UBE2V2,2,ubiquitin and UBL binding,"UEV, backside Ub binding",variable
+ENSG00000168300,PCMTD1,3,E3 ligase ,SOCS box,variable
+ENSG00000215114,UBXN2B,2,p97 and associates,"UBX, SHP, SEP",variable
+ENSG00000147573,TRIM55,24,E3 ligase ,TRIM,variable
+ENSG00000175073,VCPIP1,0,p97 and associates,OTU,variable
+ENSG00000121022,COPS5,2,Ub and UBL demodifiers,CSN complex,variable
+ENSG00000104343,UBE2W,0,E2 conjugating enzymes,UBC domain only ,variable
+ENSG00000154582,ELOC,1,E3 ligase ,CRL adaptor,variable
+ENSG00000164751,PEX2,1,E3 ligase ,PEX,variable
+ENSG00000123124,WWP1,2,E3 ligase ,WW & C2,variable
+ENSG00000176566,DCAF4L2,1,E3 ligase ,DCAF,variable
+ENSG00000155100,OTUD6B,1,Ub and UBL demodifiers,assorted,variable
+ENSG00000156509,FBXO43,8,E3 ligase ,F-box,variable
+ENSG00000034677,RNF19A,0,E3 ligase ,assorted,core
+ENSG00000104517,UBR5,0,E3 ligase ,RCC1,core
+ENSG00000164934,DCAF13,0,E3 ligase ,DCAF,variable
+ENSG00000136986,DERL1,1,p97 and associates,SHP,variable
+ENSG00000156804,FBXO32,15,E3 ligase ,F-box,variable
+ENSG00000175946,KLHL38,17,E3 ligase ,BTB,variable
+ENSG00000170881,RNF139,1,E3 ligase ,other,variable
+ENSG00000156831,NSMCE2,1,E3 ligase ,sumoylation,variable
+ENSG00000178685,PARP10,6,ubiquitin and UBL binding,ADP ribosyltransferase,variable
+ENSG00000179526,SHARPIN,2,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000182325,FBXL6,2,E3 ligase ,F-box,variable
+ENSG00000071894,CPSF1,2,E3 ligase ,CRL adaptor,variable
+ENSG00000064218,DMRT3,26,ubiquitin and UBL binding,activation (probable),variable
+ENSG00000147854,UHRF2,0,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000198642,KLHL9,1,E3 ligase ,BTB,variable
+ENSG00000176399,DMRTA1,16,ubiquitin and UBL binding,DNA binding,variable
+ENSG00000137055,PLAA,1,p97 and associates,PLA activator,variable
+ENSG00000197579,TOPORS,0,E3 ligase ,other,variable
+ENSG00000122692,SMU1,0,E3 ligase ,DCAF,core
+ENSG00000107262,BAG1,2,ubiquitin and UBL proteins,chaperones and related,variable
+ENSG00000086102,NFX1,0,E3 ligase ,NFX,core
+ENSG00000107341,UBE2R2,1,E2 conjugating enzymes,UBC domain & C-terminal extension,variable
+ENSG00000137073,UBAP2,2,ubiquitin and UBL binding,RNA polymerase II removal,variable
+ENSG00000198876,DCAF12,3,E3 ligase ,DCAF,variable
+ENSG00000165280,VCP,1,p97 and associates,nan,variable
+ENSG00000185972,CCIN,15,E3 ligase ,BTB,variable
+ENSG00000137075,RNF38,2,E3 ligase ,other,variable
+ENSG00000147912,FBXO10,4,E3 ligase ,F-box,variable
+ENSG00000122741,DCAF10,1,E3 ligase ,DCAF,variable
+ENSG00000135063,FAM189A2,13,E3 ligase ,ITCH-specific,variable
+ENSG00000107372,ZFAND5,2,proteasome & associates,AN1,variable
+ENSG00000196781,TLE1,4,E3 ligase ,DCAF,variable
+ENSG00000135018,UBQLN1,0,proteasome & associates,UBL,core
+ENSG00000106785,TRIM14,10,E3 ligase ,TRIM,variable
+ENSG00000155827,RNF20,0,E3 ligase ,RNF20/40 ish,variable
+ENSG00000119318,RAD23B,1,proteasome & associates,UBL,variable
+ENSG00000136826,KLF4,12,ubiquitin and UBL binding,activation and repression,variable
+ENSG00000136813,KIAA0368,1,proteasome & associates,inhibitor,variable
+ENSG00000176386,CDC26,0,E3 ligase ,subunit,variable
+ENSG00000165188,RNF183,11,E3 ligase ,other,variable
+ENSG00000119401,TRIM32,3,E3 ligase ,TRIM,variable
+ENSG00000119402,FBXW2,0,E3 ligase ,F-box,core
+ENSG00000095261,PSMD5,0,proteasome & associates,regulatory particle,variable
+ENSG00000056558,TRAF1,4,E3 ligase ,TRAF2-specific,variable
+ENSG00000056586,RC3H2,0,E3 ligase ,Roquin,variable
+ENSG00000136930,PSMB7,0,proteasome & associates,constitutive,core
+ENSG00000148356,LRSAM1,1,E3 ligase ,other,variable
+ENSG00000167118,URM1,0,ubiquitin and UBL proteins,URM1,core
+ENSG00000160445,ZER1,2,E3 ligase ,substrate adaptors,variable
+ENSG00000148331,ASB6,1,E3 ligase ,SOCS box,variable
+ENSG00000136878,USP20,1,Ub and UBL demodifiers,"DUSP, UBP-ZnF",variable
+ENSG00000196363,WDR5,1,E3 ligase ,DCAF,variable
+ENSG00000130560,UBAC1,1,ubiquitin and UBL proteins,ubiquitin binding ,variable
+ENSG00000127191,TRAF2,0,E3 ligase ,"TRAF-type ZnF, MATH/TRAF ",variable
+ENSG00000159069,FBXW5,3,E3 ligase ,F-box,variable
+ENSG00000176248,ANAPC2,0,E3 ligase ,subunit,core
+ENSG00000212864,RNF208,10,E3 ligase ,other,variable
+ENSG00000233198,RNF224,13,E3 ligase ,other,variable
+ENSG00000197070,ARRDC1,2,E3 ligase ,nan,variable
+ENSG00000196372,ASB13,4,E3 ligase ,SOCS box,variable
+ENSG00000134452,FBXO18,0,E3 ligase ,F-box,core
+ENSG00000148481,MINDY3,1,Ub and UBL demodifiers,nan,variable
+ENSG00000168283,BMI1,1,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000165312,OTUD1,2,Ub and UBL demodifiers,assorted,variable
+ENSG00000108094,CUL2,1,E3 ligase ,Cullin,variable
+ENSG00000165406,MARCH8,2,E3 ligase ,MARCH,variable
+ENSG00000172671,ZFAND4,3,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000072401,UBE2D1,5,E2 conjugating enzymes,UBC domain only ,variable
+ENSG00000072422,RHOBTB1,7,E3 ligase ,BTB,variable
+ENSG00000122877,EGR2,10,E3 ligase ,nan,variable
+ENSG00000148634,HERC4,0,E3 ligase ,RCC1,variable
+ENSG00000166295,ANAPC16,3,E3 ligase ,subunit,variable
+ENSG00000166348,USP54,8,Ub and UBL demodifiers,"assorted, large",variable
+ENSG00000214655,ZSWIM8,1,E3 ligase ,substrate adaptors,variable
+ENSG00000138134,STAMBPL1,9,Ub and UBL demodifiers,assorted,variable
+ENSG00000180628,PCGF5,2,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000165338,HECTD2,1,E3 ligase ,assorted,variable
+ENSG00000198060,MARCH5,0,E3 ligase ,MARCH,core
+ENSG00000165886,UBTD1,3,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000213341,CHUK,0,ubiquitin and UBL proteins,assorted enzymes ,variable
+ENSG00000166167,BTRC,3,E3 ligase ,F-box,variable
+ENSG00000107829,FBXW4,1,E3 ligase ,F-box,variable
+ENSG00000107872,FBXL15,1,E3 ligase ,F-box,variable
+ENSG00000107874,CUEDC2,1,ubiquitin and UBL binding,UBA,variable
+ENSG00000171206,TRIM8,1,E3 ligase ,TRIM,variable
+ENSG00000156374,PCGF6,1,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000107954,NEURL1,29,E3 ligase ,Neuralized,variable
+ENSG00000198924,DCLRE1A,1,ubiquitin and UBL binding,DNA exonuclease,variable
+ENSG00000151893,CACUL1,1,E3 ligase ,Cullin,variable
+ENSG00000019995,ZRANB1,1,Ub and UBL demodifiers,RanBP2-type ZnF,variable
+ENSG00000154493,C10orf90,26,E3 ligase ,nan,variable
+ENSG00000185627,PSMD13,1,proteasome & associates,nonATPase,variable
+ENSG00000070047,PHRF1,0,E3 ligase ,other,core
+ENSG00000174672,BRSK2,24,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000132109,TRIM21,4,E3 ligase ,TRIM,variable
+ENSG00000167333,TRIM68,0,E3 ligase ,TRIM,variable
+ENSG00000175520,UBQLN3,4,proteasome & associates,UBL,variable
+ENSG00000175518,UBQLNL,11,proteasome & associates,UBL,variable
+ENSG00000121236,TRIM6,14,E3 ligase ,TRIM,variable
+ENSG00000258659,TRIM34,6,E3 ligase ,TRIM,variable
+ENSG00000132256,TRIM5,8,E3 ligase ,TRIM,variable
+ENSG00000132274,TRIM22,8,E3 ligase ,TRIM,variable
+ENSG00000110171,TRIM3,2,E3 ligase ,TRIM,variable
+ENSG00000166436,TRIM66,2,E3 ligase ,TRIM,variable
+ENSG00000110315,RNF141,6,E3 ligase ,other,variable
+ENSG00000170242,USP47,2,ubiquitin and UBL proteins,DUB,variable
+ENSG00000148925,BTBD10,4,E3 ligase ,BTB,variable
+ENSG00000129084,PSMA1,1,proteasome & associates,constitutive,variable
+ENSG00000198168,SVIP,3,p97 and associates,VIM,variable
+ENSG00000110429,FBXO3,1,E3 ligase ,F-box,variable
+ENSG00000166016,ABTB2,9,E3 ligase ,BTB,variable
+ENSG00000166326,TRIM44,2,E3 ligase ,TRIM,variable
+ENSG00000175104,TRAF6,0,E3 ligase ,"TRAF-type ZnF, MATH/TRAF ",variable
+ENSG00000110497,AMBRA1,0,E3 ligase ,DCAF,variable
+ENSG00000134574,DDB2,5,E3 ligase ,DCAF,variable
+ENSG00000165916,PSMC3,1,proteasome & associates,ATPase,variable
+ENSG00000165917,RAPSN,13,E3 ligase ,other,variable
+ENSG00000123444,KBTBD4,1,E3 ligase ,BTB,variable
+ENSG00000156587,UBE2L6,3,E2 conjugating enzymes,UBC domain only,variable
+ENSG00000186660,ZFP91,2,E3 ligase ,nan,variable
+ENSG00000110042,DTX4,14,E3 ligase ,Deltex,variable
+ENSG00000110107,PRPF19,1,E3 ligase ,UBOX,variable
+ENSG00000167986,DDB1,2,E3 ligase ,CRL adaptor,variable
+ENSG00000162191,UBXN1,1,p97 and associates,"UBX, UBA",variable
+ENSG00000162231,NXF1,1,ubiquitin and UBL binding,UBA,variable
+ENSG00000072518,MARK2,2,ubiquitin and UBL binding,microtubule-associated Ser/Thr kinases,variable
+ENSG00000167770,OTUB1,0,p97 and associates,OTU,core
+ENSG00000149806,FAU,1,ubiquitin and UBL proteins,FAU,variable
+ENSG00000162298,SYVN1,2,p97 and associates,RING,variable
+ENSG00000174516,PELI3,5,E3 ligase ,Pellino,variable
+ENSG00000173120,KDM2A,1,E3 ligase ,F-box,variable
+ENSG00000137522,RNF121,0,E3 ligase ,other,variable
+ENSG00000110200,ANAPC15,0,E3 ligase ,subunit,variable
+ENSG00000175575,PAAF1,4,proteasome & associates,regulatory particle,variable
+ENSG00000166439,RNF169,2,E3 ligase ,other,variable
+ENSG00000149243,KLHL35,15,E3 ligase ,BTB,variable
+ENSG00000188997,KCTD21,4,E3 ligase ,BTB,variable
+ENSG00000118369,USP35,3,Ub and UBL demodifiers,Armadillo-type,variable
+ENSG00000074266,EED,0,E3 ligase ,DCAF,variable
+ENSG00000137693,YAP1,11,ubiquitin and UBL binding,coactivation and corepression,variable
+ENSG00000023445,BIRC3,7,E3 ligase ,BIRC / IAP,variable
+ENSG00000110330,BIRC2,0,E3 ligase ,BIRC / IAP,core
+ENSG00000137692,DCUN1D5,1,E3 ligase ,NEDDylation,variable
+ENSG00000170967,DDI1,3,proteasome & associates,aspartic peptidase,variable
+ENSG00000182359,KBTBD3,1,E3 ligase ,BTB,variable
+ENSG00000166266,CUL5,3,E3 ligase ,Cullin,variable
+ENSG00000149289,ZC3H12C,4,ubiquitin and UBL binding,UBA,variable
+ENSG00000170145,SIK2,5,ubiquitin and UBL binding,salt-inducible Ser/Thr kinases,variable
+ENSG00000048028,USP28,5,Ub and UBL demodifiers,UBA,variable
+ENSG00000160584,SIK3,1,ubiquitin and UBL binding,salt-inducible Ser/Thr kinases,variable
+ENSG00000167257,RNF214,1,E3 ligase ,other,variable
+ENSG00000110344,UBE4A,0,E3 ligase ,UBOX,variable
+ENSG00000160695,VPS11,0,E3 ligase ,VPS-associated,core
+ENSG00000110395,CBL,5,E3 ligase ,"CBL, UBA",variable
+ENSG00000173456,RNF26,0,E3 ligase ,other,core
+ENSG00000036672,USP2,16,Ub and UBL demodifiers,assorted,variable
+ENSG00000137699,TRIM29,26,E3 ligase ,TRIM,variable
+ENSG00000154114,TBCEL,1,ubiquitin and UBL proteins,chaperones and related,variable
+ENSG00000154127,UBASH3B,16,ubiquitin and UBL binding,Tyr phosphatase,variable
+ENSG00000171823,FBXL14,3,E3 ligase ,F-box,variable
+ENSG00000111652,COPS7A,3,Ub and UBL demodifiers,deNEDDylase,variable
+ENSG00000111665,CDCA3,6,E3 ligase ,none,variable
+ENSG00000111667,USP5,1,Ub and UBL demodifiers,"UBP-ZnF, UBA",variable
+ENSG00000111671,SPSB2,0,E3 ligase ,SOCS box,variable
+ENSG00000171681,ATF7IP,1,ubiquitin and UBL binding,activation and repression,variable
+ENSG00000087448,KLHL42,4,E3 ligase ,BTB,variable
+ENSG00000151743,AMN1,6,E3 ligase ,SOCS box,variable
+ENSG00000165966,PDZRN4,12,E3 ligase ,PDZ,variable
+ENSG00000015153,YAF2,2,ubiquitin and UBL binding,coactivation and corepression,variable
+ENSG00000079387,SENP1,1,Ub and UBL demodifiers,deSUMOylase,variable
+ENSG00000177981,ASB8,1,E3 ligase ,SOCS box,variable
+ENSG00000123352,SPATS2,3,ubiquitin and UBL binding,UBA,variable
+ENSG00000123374,CDK2,7,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000181852,RNF41,0,E3 ligase ,SIAH-type ZnF,variable
+ENSG00000196531,NACA,2,ubiquitin and UBL binding,nascent peptide binding,variable
+ENSG00000178498,DTX3,7,E3 ligase ,Deltex,variable
+ENSG00000139266,MARCH9,1,E3 ligase ,MARCH,variable
+ENSG00000123297,TSFM,3,ubiquitin and UBL binding,mitochondrial,variable
+ENSG00000135655,USP15,2,ubiquitin and UBL proteins,DUB,variable
+ENSG00000183735,TBK1,0,ubiquitin and UBL proteins,assorted enzymes ,core
+ENSG00000111530,CAND1,0,E3 ligase ,CRL regulator,variable
+ENSG00000135679,MDM2,2,E3 ligase ,Mdm,variable
+ENSG00000139323,POC1B,2,E3 ligase ,DCAF,variable
+ENSG00000177889,UBE2N,1,E2 conjugating enzymes,UBC domain only ,variable
+ENSG00000120833,SOCS2,14,E3 ligase ,SOCS box,variable
+ENSG00000136014,USP44,9,Ub and UBL demodifiers,UBP-ZnF,variable
+ENSG00000139372,TDG,2,ubiquitin and UBL binding,DNA glycosylase,variable
+ENSG00000151136,BTBD11,22,E3 ligase ,BTB,variable
+ENSG00000136045,PWP1,0,E3 ligase ,DCAF,core
+ENSG00000135093,USP30,1,Ub and UBL demodifiers,assorted,variable
+ENSG00000110906,KCTD10,6,E3 ligase ,BTB,variable
+ENSG00000151148,UBE3B,1,E3 ligase ,IQ motif,variable
+ENSG00000196510,ANAPC7,1,E3 ligase ,subunit,variable
+ENSG00000089234,BRAP,1,E3 ligase ,BRCA1-associated,variable
+ENSG00000173064,HECTD4,1,E3 ligase ,SPRY,variable
+ENSG00000135144,DTX1,12,E3 ligase ,Deltex,variable
+ENSG00000135119,RNFT2,16,E3 ligase ,other,variable
+ENSG00000174989,FBXW8,0,E3 ligase ,F-box,variable
+ENSG00000135108,FBXO21,1,E3 ligase ,F-box,variable
+ENSG00000176871,WSB2,7,E3 ligase ,SOCS box,variable
+ENSG00000022840,RNF10,2,E3 ligase ,other,variable
+ENSG00000135114,OASL,8,ubiquitin and UBL proteins,nucleic acid processes,variable
+ENSG00000089053,ANAPC5,0,E3 ligase ,subunit,core
+ENSG00000170633,RNF34,1,E3 ligase ,SAP,variable
+ENSG00000089094,KDM2B,1,E3 ligase ,F-box,variable
+ENSG00000110801,PSMD9,0,proteasome & associates,regulatory particle,core
+ENSG00000150991,UBC,2,ubiquitin and UBL proteins,polyubiquitin,variable
+ENSG00000072609,CHFR,1,E3 ligase ,other,variable
+ENSG00000121741,ZMYM2,0,ubiquitin and UBL binding,repression,core
+ENSG00000150457,LATS2,9,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000151835,SACS,7,ubiquitin and UBL proteins,chaperones and related,variable
+ENSG00000132972,RNF17,8,E3 ligase ,other,variable
+ENSG00000127870,RNF6,1,E3 ligase ,other,variable
+ENSG00000152484,USP12,1,Ub and UBL demodifiers,assorted,variable
+ENSG00000139517,LNX2,1,E3 ligase ,PDZ,variable
+ENSG00000132963,POMP,1,proteasome & associates,core particle,variable
+ENSG00000122042,UBL3,3,ubiquitin and UBL proteins,UBL3,variable
+ENSG00000236444,UBE2L5P,11,E2 conjugating enzymes,UBC domain only ,variable
+ENSG00000132952,USPL1,1,Ub and UBL demodifiers,deSUMOylation,variable
+ENSG00000120686,UFM1,2,ubiquitin and UBL proteins,UFM1,variable
+ENSG00000165572,KBTBD6,7,E3 ligase ,BTB,variable
+ENSG00000120696,KBTBD7,3,E3 ligase ,BTB,variable
+ENSG00000215475,SIAH3,26,E3 ligase ,SIA TRAF-like domain,variable
+ENSG00000136161,RCBTB2,2,E3 ligase ,BTB,variable
+ENSG00000136144,RCBTB1,5,E3 ligase ,BTB,variable
+ENSG00000204977,TRIM13,1,E3 ligase ,TRIM,variable
+ENSG00000083544,TDRD3,1,ubiquitin and UBL binding,activation,variable
+ENSG00000150361,KLHL1,28,E3 ligase ,BTB,variable
+ENSG00000118939,UCHL3,4,Ub and UBL demodifiers,nan,variable
+ENSG00000005812,FBXL3,3,E3 ligase ,F-box,variable
+ENSG00000005810,MYCBP2,0,E3 ligase ,other,variable
+ENSG00000152193,RNF219,2,E3 ligase ,other,variable
+ENSG00000102471,NDFIP2,10,E3 ligase ,nan,variable
+ENSG00000139797,RNF113B,8,E3 ligase ,other,variable
+ENSG00000134882,UBAC2,1,ubiquitin and UBL binding,UBA,variable
+ENSG00000139842,CUL4A,1,E3 ligase ,Cullin,variable
+ENSG00000150401,DCUN1D2,5,E3 ligase ,NEDDylation,variable
+ENSG00000130177,CDC16,0,E3 ligase ,subunit,core
+ENSG00000100814,CCNB1IP1,1,E3 ligase ,other,variable
+ENSG00000185271,KLHL33,11,E3 ligase ,BTB,variable
+ENSG00000100804,PSMB5,2,proteasome & associates,constitutive,variable
+ENSG00000215277,RNF212B,3,E3 ligase ,other,variable
+ENSG00000100897,DCAF11,3,E3 ligase ,DCAF,variable
+ENSG00000092010,PSME1,4,proteasome & associates,activator,variable
+ENSG00000100911,PSME2,3,proteasome & associates,activator,variable
+ENSG00000092098,RNF31,1,p97 and associates,RBR,variable
+ENSG00000129559,NEDD8,1,ubiquitin and UBL proteins,NEDD8,variable
+ENSG00000100441,KHNYN,4,ubiquitin and UBL binding,UBA,variable
+ENSG00000092140,G2E3,1,E3 ligase ,PHD-type ZnF,variable
+ENSG00000092148,HECTD1,2,E3 ligase ,"Armadillo-like, ankyrin repeats",variable
+ENSG00000100902,PSMA6,2,proteasome & associates,constitutive,variable
+ENSG00000165355,FBXO33,1,E3 ligase ,F-box,variable
+ENSG00000179454,KLHL28,0,E3 ligase ,BTB,variable
+ENSG00000165501,LRR1,3,E3 ligase ,substrate adaptors,variable
+ENSG00000197776,KLHDC1,2,E3 ligase ,substrate adaptors,variable
+ENSG00000165516,KLHDC2,1,E3 ligase ,substrate adaptors,variable
+ENSG00000100505,TRIM9,24,E3 ligase ,TRIM,variable
+ENSG00000100519,PSMC6,3,proteasome & associates,ATPase,variable
+ENSG00000100532,CGRRF1,2,E3 ligase ,other,variable
+ENSG00000180008,SOCS4,0,E3 ligase ,SOCS box,variable
+ENSG00000178974,FBXO34,3,E3 ligase ,F-box,variable
+ENSG00000139946,PELI2,6,E3 ligase ,Pellino,variable
+ENSG00000100567,PSMA3,2,proteasome & associates,constitutive,variable
+ENSG00000020426,MNAT1,2,E3 ligase ,other,variable
+ENSG00000139990,DCAF5,1,E3 ligase ,DCAF,variable
+ENSG00000119599,DCAF4,1,E3 ligase ,DCAF,variable
+ENSG00000119682,AREL1,1,E3 ligase ,assorted,variable
+ENSG00000119669,IRF2BPL,0,E3 ligase ,IRF2 binding,core
+ENSG00000100764,PSMC1,1,proteasome & associates,ATPase,variable
+ENSG00000066427,ATXN3,0,p97 and associates,Josephin,variable
+ENSG00000012963,UBR7,1,E3 ligase ,UBR,variable
+ENSG00000011114,BTBD7,1,E3 ligase ,BTB,variable
+ENSG00000100628,ASB2,22,E3 ligase ,SOCS box,variable
+ENSG00000089723,OTUB2,11,Ub and UBL demodifiers,assorted,variable
+ENSG00000156381,ANKRD9,7,E3 ligase ,SOCS box,variable
+ENSG00000089902,RCOR1,3,ubiquitin and UBL binding,corepression,variable
+ENSG00000131323,TRAF3,2,E3 ligase ,"TRAF-type ZnF, MATH/TRAF ",variable
+ENSG00000075413,MARK3,0,ubiquitin and UBL binding,microtubule-associated Ser/Thr kinases,core
+ENSG00000184990,SIVA1,3,E3 ligase ,none,variable
+ENSG00000184887,BTBD6,2,E3 ligase ,BTB,variable
+ENSG00000182979,MTA1,0,ubiquitin and UBL binding,coactivation and corepression,core
+ENSG00000179455,MKRN3,23,E3 ligase ,Makorin,variable
+ENSG00000254585,MAGEL2,18,E3 ligase ,MAGE,variable
+ENSG00000114062,UBE3A,2,proteasome & associates,HECT,variable
+ENSG00000128731,HERC2,1,E3 ligase ,RCC1,variable
+ENSG00000185115,NSMCE3,1,E3 ligase ,MAGE,variable
+ENSG00000198690,FAN1,2,ubiquitin and UBL binding,DNA exonuclease,variable
+ENSG00000169918,OTUD7A,14,p97 and associates,OTU ,variable
+ENSG00000128829,EIF2AK4,1,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000159459,UBR1,1,proteasome & associates,UBR,variable
+ENSG00000242028,HYPK,3,ubiquitin and UBL binding,N-terminal acetylation,variable
+ENSG00000092470,WDR76,6,E3 ligase ,DCAF,variable
+ENSG00000185880,TRIM69,2,E3 ligase ,TRIM,variable
+ENSG00000166200,COPS2,2,Ub and UBL demodifiers,deNEDDylase,variable
+ENSG00000138592,USP8,0,Ub and UBL demodifiers,"dimerization, rhodanese-like ",variable
+ENSG00000170236,USP50,10,Ub and UBL demodifiers,assorted,variable
+ENSG00000069869,NEDD4,8,E3 ligase ,WW & C2,variable
+ENSG00000128923,MINDY2,4,Ub and UBL demodifiers,nan,variable
+ENSG00000157450,RNF111,0,E3 ligase ,other,variable
+ENSG00000140455,USP3,3,Ub and UBL demodifiers,UBP-ZnF,variable
+ENSG00000197361,FBXL22,15,E3 ligase ,F-box,variable
+ENSG00000103657,HERC1,1,E3 ligase ,RCC1,variable
+ENSG00000103671,TRIP4,0,ubiquitin and UBL binding,ribosome QC & transcriptional activation,variable
+ENSG00000234438,KBTBD13,18,E3 ligase ,BTB,variable
+ENSG00000246922,UBAP1L,2,ubiquitin and UBL binding,UBA,variable
+ENSG00000033800,PIAS1,1,E3 ligase ,sumoylation,variable
+ENSG00000169018,FEM1B,1,E3 ligase ,substrate adaptors,variable
+ENSG00000140332,TLE3,7,E3 ligase ,DCAF,variable
+ENSG00000166192,SENP8,4,Ub and UBL demodifiers,"deNEDDylase, NEDD8 processing",variable
+ENSG00000166233,ARIH1,1,E3 ligase ,Ariadne,variable
+ENSG00000140464,PML,7,E3 ligase ,TRIM,variable
+ENSG00000138629,UBL7,1,ubiquitin and UBL proteins,ubiquitin binding ,variable
+ENSG00000140367,UBE2Q2,2,E2 conjugating enzymes,UBC domain & RWD-like domain ,variable
+ENSG00000167196,FBXO22,2,E3 ligase ,F-box,variable
+ENSG00000140395,WDR61,0,E3 ligase ,DCAF,core
+ENSG00000041357,PSMA4,1,proteasome & associates,constitutive,variable
+ENSG00000086666,ZFAND6,1,ubiquitin and UBL binding,A20,variable
+ENSG00000183496,MEX3B,7,E3 ligase ,MEX3,variable
+ENSG00000064726,BTBD1,1,E3 ligase ,BTB,variable
+ENSG00000183655,KLHL25,3,E3 ligase ,BTB,variable
+ENSG00000140543,DET1,3,E3 ligase ,DCAF,variable
+ENSG00000140450,ARRDC4,5,E3 ligase ,nan,variable
+ENSG00000183475,ASB7,0,E3 ligase ,SOCS box,variable
+ENSG00000131871,SELENOS,3,p97 and associates,VIM,variable
+ENSG00000161981,SNRNP25,6,ubiquitin and UBL proteins,nucleic acid processes,variable
+ENSG00000103326,CAPN15,2,ubiquitin and UBL binding,endopeptidase,variable
+ENSG00000197562,RAB40C,2,E3 ligase ,SOCS box,variable
+ENSG00000103266,STUB1,2,E3 ligase ,UBOX,variable
+ENSG00000127585,FBXL16,25,E3 ligase ,F-box,variable
+ENSG00000103275,UBE2I,0,E2 conjugating enzymes,nan,core
+ENSG00000059145,UNKL,1,E3 ligase ,Unkempt,variable
+ENSG00000162032,SPSB3,4,E3 ligase ,SOCS box,variable
+ENSG00000179580,RNF151,3,E3 ligase ,SIAH-type ZnF,variable
+ENSG00000167962,ZNF598,1,E3 ligase ,other,variable
+ENSG00000131653,TRAF7,1,E3 ligase ,TRAF-type ZnF,variable
+ENSG00000167967,E4F1,0,E3 ligase ,nan,core
+ENSG00000162063,CCNF,8,E3 ligase ,F-box,variable
+ENSG00000167977,KCTD5,1,E3 ligase ,BTB,variable
+ENSG00000103363,ELOB,0,ubiquitin and UBL proteins,E3 ligases,core
+ENSG00000103313,MEFV,12,E3 ligase ,TRIM,variable
+ENSG00000188827,SLX4,2,ubiquitin and UBL binding,DNA endonuclease cofactor,variable
+ENSG00000005339,CREBBP,0,ubiquitin and UBL binding,activation,core
+ENSG00000153443,UBALD1,1,ubiquitin and UBL binding,UBA,variable
+ENSG00000102858,MGRN1,2,E3 ligase ,other,variable
+ENSG00000187555,USP7,0,ubiquitin and UBL proteins,DUB,core
+ENSG00000185338,SOCS1,14,E3 ligase ,SOCS box,variable
+ENSG00000103429,BFAR,1,E3 ligase ,other,variable
+ENSG00000188215,DCUN1D3,2,E3 ligase ,NEDDylation,variable
+ENSG00000103404,USP31,7,ubiquitin and UBL proteins,DUB,variable
+ENSG00000103353,UBFD1,2,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000166851,PLK1,5,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000122257,RBBP6,0,E3 ligase ,UBOX,core
+ENSG00000169189,NSMCE1,0,E3 ligase ,other,core
+ENSG00000176953,NFATC2IP,0,ubiquitin and UBL proteins,nucleic acid processes,core
+ENSG00000174943,KCTD13,4,E3 ligase ,BTB,variable
+ENSG00000103549,RNF40,1,E3 ligase ,RNF20/40 ish,variable
+ENSG00000099364,FBXL19,5,E3 ligase ,F-box,variable
+ENSG00000089280,FUS,0,ubiquitin and UBL binding,DNA/RNA binding protein,core
+ENSG00000177238,TRIM72,10,E3 ligase ,TRIM,variable
+ENSG00000140691,ARMC5,1,E3 ligase ,BTB,variable
+ENSG00000196470,SIAH1,0,E3 ligase ,"SIAH-type ZnF, SIA TRAF-like domain",variable
+ENSG00000102921,N4BP1,3,ubiquitin and UBL binding,UBA,variable
+ENSG00000083799,CYLD,1,Ub and UBL demodifiers,CAP Gly-rich domain,variable
+ENSG00000159461,AMFR,1,p97 and associates,UBOX,variable
+ENSG00000051108,HERPUD1,4,ubiquitin and UBL proteins,ubiquilin adjacent,variable
+ENSG00000159579,RSPRY1,0,E3 ligase ,SPRY but not TRIM,variable
+ENSG00000140854,KATNB1,2,E3 ligase ,DCAF,variable
+ENSG00000159593,NAE1,1,E1 activating enzymes,nan,variable
+ENSG00000135722,FBXL8,6,E3 ligase ,F-box,variable
+ENSG00000141084,RANBP10,3,E3 ligase ,subunit,variable
+ENSG00000205220,PSMB10,3,proteasome & associates,specialized,variable
+ENSG00000198373,WWP2,2,E3 ligase ,WW & C2,variable
+ENSG00000189091,SF3B3,0,E3 ligase ,CRL adaptor,core
+ENSG00000103035,PSMD7,1,proteasome & associates,nonATPase,variable
+ENSG00000168411,RFWD3,3,E3 ligase ,other,variable
+ENSG00000103091,WDR59,1,E3 ligase ,DCAF,variable
+ENSG00000186187,ZNRF1,3,E3 ligase ,ZNRF,variable
+ENSG00000261609,GAN,5,E3 ligase ,BTB,variable
+ENSG00000135686,KLHL36,1,E3 ligase ,BTB,variable
+ENSG00000103194,USP10,2,Ub and UBL demodifiers,"Ataxin-2, C term",variable
+ENSG00000103264,FBXO31,3,E3 ligase ,F-box,variable
+ENSG00000158717,RNF166,2,E3 ligase ,TRAC-1,variable
+ENSG00000174231,PRPF8,0,ubiquitin and UBL binding,mRNA splicing,core
+ENSG00000007168,PAFAH1B1,0,E3 ligase ,DCAF,core
+ENSG00000185722,ANKFY1,1,E3 ligase ,BTB,variable
+ENSG00000132388,UBE2G1,2,E2 conjugating enzymes,UBC domain only,variable
+ENSG00000142507,PSMB6,1,proteasome & associates,constitutive,variable
+ENSG00000108523,RNF167,1,E3 ligase ,Goliath,variable
+ENSG00000129204,USP6,7,Ub and UBL demodifiers,Rab-GTPase-TBC,variable
+ENSG00000072849,DERL2,2,p97 and associates,SHP,variable
+ENSG00000177294,FBXO39,13,E3 ligase ,F-box,variable
+ENSG00000215041,NEURL4,0,E3 ligase ,NHR,core
+ENSG00000213859,KCTD11,5,E3 ligase ,BTB,variable
+ENSG00000174292,TNK1,12,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000161956,SENP3,0,Ub and UBL demodifiers,deSUMOylase,core
+ENSG00000179859,AC025335.1,8,E3 ligase ,other,variable
+ENSG00000189051,RNF222,15,E3 ligase ,other,variable
+ENSG00000154914,USP43,20,ubiquitin and UBL proteins,DUB,variable
+ENSG00000241322,CDRT1,17,E3 ligase ,F-box,variable
+ENSG00000221926,TRIM16,5,E3 ligase ,TRIM,variable
+ENSG00000170315,UBB,3,ubiquitin and UBL proteins,polyubiquitin,variable
+ENSG00000141030,COPS3,1,Ub and UBL demodifiers,deNEDDylase,variable
+ENSG00000141034,GID4,3,E3 ligase ,subunit,variable
+ENSG00000108448,TRIM16L,6,E3 ligase ,TRIM,variable
+ENSG00000171931,FBXW10,13,E3 ligase ,F-box,variable
+ENSG00000128482,RNF112,14,E3 ligase ,other,variable
+ENSG00000124422,USP22,3,Ub and UBL demodifiers,UBP-ZnF,variable
+ENSG00000109046,WSB1,2,E3 ligase ,SOCS box,variable
+ENSG00000109079,TNFAIP1,2,E3 ligase ,BTB,variable
+ENSG00000076604,TRAF4,10,E3 ligase ,"TRAF-type ZnF, MATH/TRAF ",variable
+ENSG00000181481,RNF135,6,E3 ligase ,SPRY but not TRIM,variable
+ENSG00000108671,PSMD11,1,proteasome & associates,nonATPase,variable
+ENSG00000092871,RFFL,5,E3 ligase ,SAP,variable
+ENSG00000073536,NLE1,0,E3 ligase ,DCAF,variable
+ENSG00000108733,PEX12,2,E3 ligase ,PEX,variable
+ENSG00000270647,TAF15,0,ubiquitin and UBL binding,initiation,core
+ENSG00000274211,SOCS7,4,E3 ligase ,SOCS box,variable
+ENSG00000277258,PCGF2,4,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000277791,PSMB3,1,proteasome & associates,constitutive,variable
+ENSG00000108306,FBXL20,0,E3 ligase ,F-box,variable
+ENSG00000108344,PSMD3,1,proteasome & associates,nonATPase,variable
+ENSG00000161594,KLHL10,5,E3 ligase ,BTB,variable
+ENSG00000178502,KLHL11,4,E3 ligase ,BTB,variable
+ENSG00000131467,PSME3,0,proteasome & associates,activator,core
+ENSG00000012048,BRCA1,4,E3 ligase ,BRCA1,variable
+ENSG00000161664,ASB16,6,E3 ligase ,SOCS box,variable
+ENSG00000168591,TMUB2,1,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000087152,ATXN7L3,1,ubiquitin and UBL binding,activation,variable
+ENSG00000004897,CDC27,0,E3 ligase ,subunit,variable
+ENSG00000198933,TBKBP1,4,ubiquitin and UBL binding,UBZ,variable
+ENSG00000108465,CDK5RAP3,0,E3 ligase ,UFMylation,core
+ENSG00000082641,NFE2L1,5,proteasome & associates,transcription factor,variable
+ENSG00000159202,UBE2Z,0,E2 conjugating enzymes,UBC domain & N-terminal and C-terminal extensions,core
+ENSG00000121067,SPOP,3,E3 ligase ,BTB,variable
+ENSG00000121060,TRIM25,3,E3 ligase ,TRIM,variable
+ENSG00000180891,CUEDC1,5,ubiquitin and UBL binding,UBA,variable
+ENSG00000108375,RNF43,23,E3 ligase ,other,variable
+ENSG00000108395,TRIM37,5,E3 ligase ,TRIM,variable
+ENSG00000189050,RNFT1,2,E3 ligase ,other,variable
+ENSG00000170832,USP32,2,ubiquitin and UBL proteins,DUB,variable
+ENSG00000062725,APPBP2,1,E3 ligase ,substrate adaptors,variable
+ENSG00000253506,NACA2,2,ubiquitin and UBL binding,nascent peptide binding,variable
+ENSG00000173838,MARCH10,19,E3 ligase ,MARCH,variable
+ENSG00000136485,DCAF7,0,E3 ligase ,DCAF,core
+ENSG00000087191,PSMC5,0,proteasome & associates,ATPase,core
+ENSG00000108854,SMURF2,2,E3 ligase ,WW & C2,variable
+ENSG00000197170,PSMD12,1,proteasome & associates,nonATPase,variable
+ENSG00000180901,KCTD2,3,E3 ligase ,BTB,variable
+ENSG00000188612,SUMO2,0,ubiquitin and UBL proteins,SUMO,core
+ENSG00000132478,UNK,0,E3 ligase ,Unkempt,variable
+ENSG00000132481,TRIM47,7,E3 ligase ,TRIM,variable
+ENSG00000141569,TRIM65,1,E3 ligase ,TRIM,variable
+ENSG00000141576,RNF157,21,E3 ligase ,other,variable
+ENSG00000185262,UBALD2,3,ubiquitin and UBL binding,UBA,variable
+ENSG00000175931,UBE2O,0,E2 conjugating enzymes,E2-E3 chimera,core
+ENSG00000078687,TNRC6C,2,ubiquitin and UBL binding,repression,variable
+ENSG00000184557,SOCS3,13,E3 ligase ,SOCS box,variable
+ENSG00000055483,USP36,1,Ub and UBL demodifiers,"assorted, large",variable
+ENSG00000108679,LGALS3BP,9,E3 ligase ,BTB,variable
+ENSG00000141582,CBX4,3,E3 ligase ,sumoylation,variable
+ENSG00000173821,RNF213,4,E3 ligase ,other,variable
+ENSG00000182446,NPLOC4,1,p97 and associates,MPN,variable
+ENSG00000141552,ANAPC11,1,E3 ligase ,subunit,variable
+ENSG00000169696,ASPSCR1,1,p97 and associates,"UBX, UBXL, SHP",variable
+ENSG00000169727,GPS1,0,Ub and UBL demodifiers,deNEDDylase,core
+ENSG00000141542,RAB40B,6,E3 ligase ,SOCS box,variable
+ENSG00000101557,USP14,1,proteasome & associates,USP,variable
+ENSG00000128789,PSMG2,0,proteasome & associates,core particle,core
+ENSG00000101752,MIB1,1,E3 ligase ,Mindbomb,variable
+ENSG00000101782,RIOK3,4,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000154059,IMPACT,2,ubiquitin and UBL binding,translational upregulation,variable
+ENSG00000154611,PSMA8,10,proteasome & associates,specialized,variable
+ENSG00000101695,RNF125,10,E3 ligase ,TRAC-1,variable
+ENSG00000134758,RNF138,2,E3 ligase ,TRAC-1,variable
+ENSG00000197705,KLHL14,15,E3 ligase ,BTB,variable
+ENSG00000141622,RNF165,14,E3 ligase ,other,variable
+ENSG00000078043,PIAS2,4,E3 ligase ,sumoylation,variable
+ENSG00000176624,MEX3C,1,E3 ligase ,MEX3,variable
+ENSG00000101751,POLI,2,ubiquitin and UBL binding,DNA polymerase,variable
+ENSG00000091164,TXNL1,1,proteasome & associates,thioredoxin-like,variable
+ENSG00000049759,NEDD4L,14,E3 ligase ,WW & C2,variable
+ENSG00000176641,RNF152,12,E3 ligase ,other,variable
+ENSG00000170677,SOCS6,3,E3 ligase ,SOCS box,variable
+ENSG00000141665,FBXO15,14,E3 ligase ,F-box,variable
+ENSG00000099804,CDC34,2,E2 conjugating enzymes,UBC domain & C-terminal extension,variable
+ENSG00000070423,RNF126,1,E3 ligase ,other,variable
+ENSG00000167470,MIDN,6,proteasome & associates,UBL,variable
+ENSG00000181588,MEX3D,3,E3 ligase ,MEX3,variable
+ENSG00000133243,BTBD2,2,E3 ligase ,BTB,variable
+ENSG00000065717,TLE2,11,E3 ligase ,DCAF,variable
+ENSG00000105325,FZR1,0,E3 ligase ,activator,core
+ENSG00000105229,PIAS4,2,E3 ligase ,sumoylation,variable
+ENSG00000008382,MPND,3,Ub and UBL demodifiers,assorted,variable
+ENSG00000167671,UBXN6,2,p97 and associates,"UBX, PUB, VIM",variable
+ENSG00000142002,DPP9,4,ubiquitin and UBL binding,dipeptidyl peptidase,variable
+ENSG00000141965,FEM1A,7,E3 ligase ,substrate adaptors,variable
+ENSG00000205784,ARRDC5,7,E3 ligase ,nan,variable
+ENSG00000276043,UHRF1,10,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000105428,ZNRF4,5,E3 ligase ,Goliath,variable
+ENSG00000223573,TINCR,20,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000099785,MARCH2,5,E3 ligase ,MARCH,variable
+ENSG00000127452,FBXL12,1,E3 ligase ,F-box,variable
+ENSG00000198258,UBL5,0,ubiquitin and UBL proteins,UBL5,core
+ENSG00000079999,KEAP1,1,E3 ligase ,BTB,variable
+ENSG00000132004,FBXW9,3,E3 ligase ,F-box,variable
+ENSG00000179262,RAD23A,1,proteasome & associates,UBL,variable
+ENSG00000132017,DCAF15,3,E3 ligase ,DCAF,variable
+ENSG00000099797,TECR,2,ubiquitin and UBL proteins,assorted enzymes ,variable
+ENSG00000130311,DDA1,0,E3 ligase ,DCAF,core
+ENSG00000105643,ARRDC2,6,E3 ligase ,nan,variable
+ENSG00000221983,UBA52,1,ubiquitin and UBL proteins,ribosomal ubiquitin fusion,variable
+ENSG00000167487,KLHL26,1,E3 ligase ,BTB,variable
+ENSG00000126261,UBA2,0,ubiquitin and UBL proteins,SUMO activation ,core
+ENSG00000105254,TBCB,2,ubiquitin and UBL proteins,chaperones and related,variable
+ENSG00000099341,PSMD8,1,proteasome & associates,nonATPase,variable
+ENSG00000269190,FBXO17,8,E3 ligase ,F-box,variable
+ENSG00000161243,FBXO27,10,E3 ligase ,F-box,variable
+ENSG00000013275,PSMC4,0,proteasome & associates,ATPase,core
+ENSG00000160410,SHKBP1,4,E3 ligase ,BTB,variable
+ENSG00000142273,CBLC,28,E3 ligase ,CBL,variable
+ENSG00000007047,MARK4,1,ubiquitin and UBL binding,microtubule-associated Ser/Thr kinases,variable
+ENSG00000177051,FBXO46,2,E3 ligase ,F-box,variable
+ENSG00000170604,IRF2BP1,0,E3 ligase ,IRF2 binding,core
+ENSG00000142230,SAE1,0,E1 activating enzymes,nan,core
+ENSG00000105447,GRWD1,0,E3 ligase ,DCAF,variable
+ENSG00000142546,NOSIP,3,E3 ligase ,UBOX,variable
+ENSG00000161677,JOSD2,2,Ub and UBL demodifiers,non-UIM,variable
+ENSG00000163098,BIRC8,1,E3 ligase ,BIRC / IAP,variable
+ENSG00000160469,BRSK1,20,ubiquitin and UBL binding,other Ser/Thr kinase,variable
+ENSG00000108106,UBE2S,6,E2 conjugating enzymes,UBC domain & C-terminal extension,variable
+ENSG00000131864,USP29,2,Ub and UBL demodifiers,PH-like,variable
+ENSG00000269855,RNF225,13,E3 ligase ,other,variable
+ENSG00000130726,TRIM28,1,E3 ligase ,TRIM,variable
+ENSG00000130725,UBE2M,2,E2 conjugating enzymes,nan,variable
+ENSG00000125826,RBCK1,1,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000125818,PSMF1,3,proteasome & associates,activator,variable
+ENSG00000088833,NSFL1C,1,p97 and associates,"UBX, SHP, SEP, UBA",variable
+ENSG00000185019,UBOX5,0,E3 ligase ,UBOX,variable
+ENSG00000198171,DDRGK1,0,E3 ligase ,UFMylation adaptor,core
+ENSG00000101236,RNF24,5,E3 ligase ,other,variable
+ENSG00000132640,BTBD3,6,E3 ligase ,BTB,variable
+ENSG00000078747,ITCH,0,E3 ligase ,WW & C2,core
+ENSG00000100991,TRPC4AP,1,E3 ligase ,DCAF,variable
+ENSG00000175063,UBE2C,12,E2 conjugating enzymes,UBC domain & N-terminal extension,variable
+ENSG00000124257,NEURL2,3,E3 ligase ,SOCS box,variable
+ENSG00000124226,RNF114,1,E3 ligase ,TRAC-1,variable
+ENSG00000244687,UBE2V1,0,ubiquitin and UBL binding,"UEV, backside Ub binding",core
+ENSG00000124217,MOCS3,2,E1 activating enzymes,nan,variable
+ENSG00000241721,SUMO1P1,4,ubiquitin and UBL proteins,SUMO,variable
+ENSG00000124227,ANKRD60,1,ubiquitin and UBL proteins,non-enzymes,variable
+ENSG00000101182,PSMA7,2,proteasome & associates,constitutive,variable
+ENSG00000130706,ADRM1,1,proteasome & associates,nonATPase,variable
+ENSG00000101193,GID8,1,E3 ligase ,subunit,variable
+ENSG00000101197,BIRC7,16,E3 ligase ,BIRC / IAP,variable
+ENSG00000203880,PCMTD2,1,E3 ligase ,SOCS box,variable
+ENSG00000155313,USP25,3,Ub and UBL demodifiers,"UBA, UIM",variable
+ENSG00000198862,LTN1,0,E3 ligase ,other,variable
+ENSG00000156253,RWDD2B,2,ubiquitin and UBL binding,RWD domain,variable
+ENSG00000156256,USP16,1,Ub and UBL demodifiers,UBP-ZnF,variable
+ENSG00000182670,TTC3,5,E3 ligase ,other,variable
+ENSG00000183527,PSMG1,2,proteasome & associates,core particle,variable
+ENSG00000185658,BRWD1,0,E3 ligase ,DCAF,variable
+ENSG00000160185,UBASH3A,12,ubiquitin and UBL binding,Tyr phosphatase,variable
+ENSG00000142178,SIK1,10,ubiquitin and UBL binding,salt-inducible Ser/Thr kinases,variable
+ENSG00000160226,C21orf2,0,E3 ligase ,subunit,core
+ENSG00000184787,UBE2G2,2,E2 conjugating enzymes,UBC domain only,variable
+ENSG00000184900,SUMO3,0,ubiquitin and UBL proteins,SUMO,core
+ENSG00000184979,USP18,3,Ub and UBL demodifiers,assorted,variable
+ENSG00000070010,UFD1L,0,p97 and associates,"SHP, UT3",core
+ENSG00000099910,KLHL22,1,E3 ligase ,BTB,variable
+ENSG00000099949,LZTR1,0,E3 ligase ,BTB,core
+ENSG00000185651,UBE2L3,0,E2 conjugating enzymes,UBC domain only ,core
+ENSG00000100023,PPIL2,0,E3 ligase ,UBOX,core
+ENSG00000185686,PRAME,10,E3 ligase ,substrate adaptors,variable
+ENSG00000183579,ZNRF3,3,E3 ligase ,other,variable
+ENSG00000100263,RHBDD3,1,ubiquitin and UBL binding,UBA & UIM,variable
+ENSG00000182944,EWSR1,0,ubiquitin and UBL binding,repression,core
+ENSG00000100325,ASCC2,4,ubiquitin and UBL binding,ribosome QC & DNA repair,variable
+ENSG00000099995,SF3A1,1,ubiquitin and UBL proteins,nucleic acid processes,variable
+ENSG00000099999,RNF215,1,E3 ligase ,other,variable
+ENSG00000138942,RNF185,1,E3 ligase ,other,variable
+ENSG00000128253,RFPL2,25,E3 ligase ,SPRY but not TRIM,variable
+ENSG00000100225,FBXO7,2,ubiquitin and UBL proteins,E3 ligases,variable
+ENSG00000100379,KCTD17,7,E3 ligase ,BTB,variable
+ENSG00000100221,JOSD1,1,Ub and UBL demodifiers,non-UIM,variable
+ENSG00000100387,RBX1,1,E3 ligase ,RBX RING,variable
+ENSG00000100418,DESI1,1,ubiquitin and UBL binding,PPPDE,variable
+ENSG00000214717,ZBED1,4,E3 ligase ,sumoylation,variable
+ENSG00000101849,TBL1X,6,E3 ligase ,none,variable
+ENSG00000101871,MID1,8,E3 ligase ,TRIM,variable
+ENSG00000102048,ASB9,11,E3 ligase ,SOCS box,variable
+ENSG00000165192,ASB11,20,E3 ligase ,SOCS box,variable
+ENSG00000102054,RBBP7,2,E3 ligase ,DCAF,variable
+ENSG00000185915,KLHL34,22,E3 ligase ,BTB,variable
+ENSG00000175809,ZNF645,1,E3 ligase ,Hakai,variable
+ENSG00000174010,KLHL15,2,E3 ligase ,BTB,variable
+ENSG00000189186,DCAF8L2,2,E3 ligase ,DCAF,variable
+ENSG00000157625,TAB3,2,ubiquitin and UBL binding,RanBP2-type ZnF,variable
+ENSG00000124486,USP9X,1,ubiquitin and UBL proteins,DUB,variable
+ENSG00000182872,RBM10,1,ubiquitin and UBL binding,mRNA splicing,variable
+ENSG00000130985,UBA1,0,E1 activating enzymes,nan,core
+ENSG00000102226,USP11,5,ubiquitin and UBL proteins,DUB,variable
+ENSG00000094631,HDAC6,2,ubiquitin and UBL binding,histone deacetylase,variable
+ENSG00000068308,OTUD5,2,Ub and UBL demodifiers,assorted,variable
+ENSG00000273820,USP27X,7,Ub and UBL demodifiers,assorted,variable
+ENSG00000179222,MAGED1,4,E3 ligase ,MAGE,variable
+ENSG00000086758,HUWE1,1,E3 ligase ,"Armadillo-like, WW",variable
+ENSG00000247746,USP51,4,Ub and UBL demodifiers,UBP-ZnF,variable
+ENSG00000188021,UBQLN2,1,proteasome & associates,UBL,variable
+ENSG00000198881,ASB12,9,E3 ligase ,SOCS box,variable
+ENSG00000102053,ZC3H12B,8,ubiquitin and UBL binding,UBA,variable
+ENSG00000181191,PJA1,2,E3 ligase ,Praja,variable
+ENSG00000189401,OTUD6A,1,Ub and UBL demodifiers,assorted,variable
+ENSG00000147130,ZMYM3,0,ubiquitin and UBL binding,SIM,core
+ENSG00000131263,RLIM,1,E3 ligase ,other,variable
+ENSG00000229547,UBE2DNL,3,ubiquitin and UBL binding,UEV,variable
+ENSG00000102271,KLHL4,22,E3 ligase ,BTB,variable
+ENSG00000268629,TEX13A,1,ubiquitin and UBL binding,repression,variable
+ENSG00000133135,RNF128,26,E3 ligase ,Goliath,variable
+ENSG00000080561,MID2,4,E3 ligase ,TRIM,variable
+ENSG00000101843,PSMD10,1,proteasome & associates,regulatory particle,variable
+ENSG00000101901,ALG13,0,Ub and UBL demodifiers,assorted,variable
+ENSG00000003096,KLHL13,8,E3 ligase ,BTB,variable
+ENSG00000174460,ZCCHC12,28,ubiquitin and UBL binding,coactivation,variable
+ENSG00000175556,LONRF3,13,E3 ligase ,LON,variable
+ENSG00000077721,UBE2A,2,E2 conjugating enzymes,UBC domain only ,variable
+ENSG00000125352,RNF113A,2,E3 ligase ,other,variable
+ENSG00000158290,CUL4B,0,E3 ligase ,Cullin,variable
+ENSG00000101966,XIAP,1,E3 ligase ,BIRC / IAP,variable
+ENSG00000282419,TEX13D,11,ubiquitin and UBL binding,repression,variable
+ENSG00000198354,DCAF12L2,18,E3 ligase ,DCAF,variable
+ENSG00000198889,DCAF12L1,16,E3 ligase ,DCAF,variable
+ENSG00000046774,MAGEC2,1,E3 ligase ,MAGE,variable
+ENSG00000185247,MAGEA11,4,E3 ligase ,MAGE,variable
+ENSG00000147381,MAGEA4,1,E3 ligase ,MAGE,variable
+ENSG00000221867,MAGEA3,1,E3 ligase ,MAGE,variable
+ENSG00000197172,MAGEA6,2,E3 ligase ,MAGE,variable
+ENSG00000198681,MAGEA1,1,E3 ligase ,MAGE,variable
+ENSG00000102178,UBL4A,3,ubiquitin and UBL proteins,chaperones and related,variable
+ENSG00000269335,IKBKG,1,ubiquitin and UBL binding,UBAN & NEMO-type ZnF,variable
+ENSG00000185515,BRCC3,2,Ub and UBL demodifiers,assorted,variable
+ENSG00000114374,USP9Y,7,ubiquitin and UBL proteins,DUB,variable

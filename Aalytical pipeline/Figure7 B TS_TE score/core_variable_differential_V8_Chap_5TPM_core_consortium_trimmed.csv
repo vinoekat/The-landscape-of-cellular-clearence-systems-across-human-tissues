@@ -1,0 +1,295 @@
+ENSG,Name,abs expressing tissues,Class,Type,core/var
+ENSG00000007923,DNAJC11,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000083444,PLOD1,3,Maturation and folding of specific substrates,nan,variable
+ENSG00000116138,DNAJC16,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000173641,HSPB7,23,Chaperone,small HSP,variable
+ENSG00000173436,MINOS1,3,Membrane protein folding,nan,variable
+ENSG00000090273,NUDC,0,Chaperone,HSP90 cochaperone,core
+ENSG00000126698,DNAJC8,0,Chaperone,J-domain containing HSP70 cochaperone,core
+ENSG00000162521,RBBP4,0,Chaperone,nan,core
+ENSG00000084072,PPIE,0,Folding enzyme,Cyclophilin type,core
+ENSG00000171960,PPIH,0,Folding enzyme,Cyclophilin type,variable
+ENSG00000117385,P3H1,4,Maturation and folding of specific substrates,nan,variable
+ENSG00000117450,PRDX1,4,Folding enzyme,nan,variable
+ENSG00000132780,NASP,0,Chaperone,HSP90 cochaperone,core
+ENSG00000117862,TXNDC12,1,Folding enzyme,nan,variable
+ENSG00000081870,HSPB11,2,Chaperone,small HSP,variable
+ENSG00000243725,TTC4,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000116675,DNAJC6,21,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000162616,DNAJB4,6,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000118729,CASQ2,18,Folding enzyme,nan,variable
+ENSG00000143401,ANP32E,2,Chaperone,nan,variable
+ENSG00000163159,VPS72,0,Chaperone,nan,core
+ENSG00000160678,S100A1,19,Chaperone,HSP90 cochaperone,variable
+ENSG00000173171,MTX1,3,Membrane protein folding,nan,variable
+ENSG00000163468,CCT3,0,Chaperone,CCT/TRiC subunit,core
+ENSG00000143318,CASQ1,16,Folding enzyme,nan,variable
+ENSG00000143256,PFDN2,0,Chaperone,CCT/TRiC cochaperone,core
+ENSG00000173110,HSPA6,11,Chaperone,HSP70,variable
+ENSG00000116161,CACYBP,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000198756,COLGALT2,15,Maturation and folding of specific substrates,nan,variable
+ENSG00000116957,TBCE,2,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000143870,PDIA6,3,Folding enzyme,nan,variable
+ENSG00000119782,FKBP1B,9,Folding enzyme,FKBP type,variable
+ENSG00000115137,DNAJC27,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000163793,DNAJC5G,18,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000115484,CCT4,0,Chaperone,CCT/TRiC subunit,core
+ENSG00000135624,CCT7,1,Chaperone,CCT/TRiC subunit,variable
+ENSG00000132305,IMMT,2,Membrane protein folding,nan,variable
+ENSG00000115514,TXNDC9,1,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000115539,PDCL3,2,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000138398,PPIG,0,Folding enzyme,Cyclophilin type,variable
+ENSG00000128708,HAT1,2,Chaperone,nan,variable
+ENSG00000128654,MTX2,3,Membrane protein folding,nan,variable
+ENSG00000079150,FKBP7,8,Folding enzyme,FKBP type,variable
+ENSG00000077232,DNAJC10,3,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000144381,HSPD1,3,Chaperone,HSP60,variable
+ENSG00000115541,HSPE1,3,Chaperone,HSP10,variable
+ENSG00000240344,PPIL3,0,Folding enzyme,Cyclophilin type,variable
+ENSG00000135924,DNAJB2,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000115053,NCL,0,Chaperone,nan,core
+ENSG00000123485,HJURP,15,Chaperone,nan,variable
+ENSG00000163528,CHCHD4,1,Folding enzyme,nan,variable
+ENSG00000170275,CRTAP,6,Maturation and folding of specific substrates,nan,variable
+ENSG00000114857,NKTR,0,Folding enzyme,Cyclophilin type,core
+ENSG00000172046,USP19,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000004838,ZMYND10,9,Chaperone,HSP90 cochaperone,variable
+ENSG00000154174,TOMM70,3,Chaperone,HSP90 cochaperone,variable
+ENSG00000169087,HSPBAP1,2,Chaperone,small HSP binding protein,variable
+ENSG00000065485,PDIA5,13,Folding enzyme,nan,variable
+ENSG00000159685,CHCHD6,4,Membrane protein folding,nan,variable
+ENSG00000073111,MCM2,5,Chaperone,nan,variable
+ENSG00000179407,DNAJB8,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000138246,DNAJC13,0,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000152952,PLOD2,9,Maturation and folding of specific substrates,nan,variable
+ENSG00000205981,DNAJC19,4,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000090520,DNAJB11,0,Chaperone,J-domain containing HSP70 cochaperone,core
+ENSG00000090530,P3H2,15,Maturation and folding of specific substrates,nan,variable
+ENSG00000178950,GAK,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000109519,GRPEL1,3,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000163440,PDCL2,7,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000177432,NAP1L5,12,Chaperone,nan,variable
+ENSG00000164031,DNAJB14,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000181004,BBS12,6,Chaperone,sequence similar non-CCT/TRiC subunit,variable
+ENSG00000164070,HSPA4L,13,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000171497,PPID,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000052795,FNIP2,4,Chaperone,HSP90 cochaperone,variable
+ENSG00000150753,CCT5,0,Chaperone,CCT/TRiC subunit,core
+ENSG00000168724,DNAJC21,3,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000170571,EMB,16,Chaperone,nan,variable
+ENSG00000169271,HSPB3,24,Chaperone,small HSP,variable
+ENSG00000153015,CWC27,1,Folding enzyme,Cyclophilin type,variable
+ENSG00000113593,PPWD1,0,Folding enzyme,Cyclophilin type,core
+ENSG00000197860,SGTB,10,Chaperone,HSP90 cochaperone,variable
+ENSG00000171530,TBCA,1,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000177034,MTX3,1,Membrane protein folding,nan,variable
+ENSG00000168938,PPIC,16,Folding enzyme,Cyclophilin type,variable
+ENSG00000217128,FNIP1,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000072682,P4HA2,14,Maturation and folding of specific substrates,nan,variable
+ENSG00000170606,HSPA4,1,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000164615,CAMLG,0,Folding enzyme,Cyclophilin type,core
+ENSG00000113013,HSPA9,2,Chaperone,HSP70,variable
+ENSG00000120725,SIL1,3,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000170464,DNAJC18,10,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000113068,PFDN1,2,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000164284,GRPEL2,4,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000113312,TTC1,0,Chaperone,HSP90 cochaperone,core
+ENSG00000170584,NUDCD2,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000181163,NPM1,1,Chaperone,nan,variable
+ENSG00000239264,TXNDC5,5,Folding enzyme,nan,variable
+ENSG00000204463,BAG6,3,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000204390,HSPA1L,4,Chaperone,HSP70,variable
+ENSG00000204389,HSPA1A,7,Chaperone,HSP70,variable
+ENSG00000204388,HSPA1B,10,Chaperone,HSP70,variable
+ENSG00000204315,FKBPL,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000204220,PFDN6,0,Chaperone,CCT/TRiC cochaperone,core
+ENSG00000204209,DAXX,1,Chaperone,nan,variable
+ENSG00000096060,FKBP5,8,Chaperone,HSP90 cochaperone,variable
+ENSG00000137168,PPIL1,3,Folding enzyme,Cyclophilin type,variable
+ENSG00000124659,TBCC,0,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000096384,HSP90AB1,2,Chaperone,HSP90,variable
+ENSG00000112208,BAG2,11,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000065615,CYB5R4,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000025796,SEC63,0,Chaperone,J-domain containing HSP70 cochaperone,core
+ENSG00000185250,PPIL6,11,Folding enzyme,Cyclophilin type,variable
+ENSG00000111875,ASF1A,1,Chaperone,nan,variable
+ENSG00000131013,PPIL4,0,Folding enzyme,Cyclophilin type,core
+ENSG00000120438,TCP1,0,Chaperone,CCT/TRiC subunit,core
+ENSG00000106541,AGR2,26,Folding enzyme,nan,variable
+ENSG00000173467,AGR3,22,Folding enzyme,nan,variable
+ENSG00000106080,FKBP14,3,Folding enzyme,FKBP type,variable
+ENSG00000122642,FKBP9,5,Folding enzyme,FKBP type,variable
+ENSG00000015676,NUDCD3,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000196262,PPIA,2,Folding enzyme,Cyclophilin type,variable
+ENSG00000146731,CCT6A,1,Chaperone,CCT/TRiC subunit,variable
+ENSG00000077800,FKBP6,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000176410,DNAJC30,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000106211,HSPB1,15,Chaperone,small HSP,variable
+ENSG00000106397,PLOD3,4,Maturation and folding of specific substrates,nan,variable
+ENSG00000105821,DNAJC2,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000128590,DNAJB9,5,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000106554,CHCHD3,3,Membrane protein folding,nan,variable
+ENSG00000155660,PDIA4,6,Folding enzyme,nan,variable
+ENSG00000105993,DNAJB6,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000158806,NPM2,21,Chaperone,nan,variable
+ENSG00000156735,BAG4,4,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000147570,DNAJC5B,6,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000104450,SPAG1,7,Chaperone,HSP90 cochaperone,variable
+ENSG00000155087,ODF1,6,Chaperone,small HSP,variable
+ENSG00000120526,NUDCD1,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000129295,LRRC6,11,Chaperone,HSP90 cochaperone,variable
+ENSG00000160949,TONSL,7,Chaperone,nan,variable
+ENSG00000106993,CDC37L1,3,Chaperone,HSP90 cochaperone,variable
+ENSG00000086061,DNAJA1,0,Chaperone,J-domain containing HSP70 cochaperone,core
+ENSG00000107262,BAG1,2,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000137094,DNAJB5,11,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000023318,ERP44,1,Folding enzyme,nan,variable
+ENSG00000059769,DNAJC25,3,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000119321,FKBP15,2,Folding enzyme,FKBP type,variable
+ENSG00000136940,PDCL,2,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000044574,HSPA5,2,Chaperone,HSP70,variable
+ENSG00000119335,SET,1,Chaperone,nan,variable
+ENSG00000165699,TSC1,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000187522,HSPA14,3,Chaperone,HSP70,variable
+ENSG00000136770,DNAJC1,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000108176,DNAJC12,20,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000148719,DNAJB12,0,Chaperone,J-domain containing HSP70 cochaperone,core
+ENSG00000122884,P4HA1,4,Maturation and folding of specific substrates,nan,variable
+ENSG00000213551,DNAJC9,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000108179,PPIF,12,Folding enzyme,nan,variable
+ENSG00000107833,NPM3,3,Chaperone,nan,variable
+ENSG00000165868,HSPA12A,11,Chaperone,HSP70,variable
+ENSG00000165672,PRDX3,5,Folding enzyme,nan,variable
+ENSG00000151929,BAG3,4,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000142102,PGGHG,10,Maturation and folding of specific substrates,nan,variable
+ENSG00000205531,NAP1L4,1,Chaperone,nan,variable
+ENSG00000132286,TIMM10B,0,Chaperone,nan,core
+ENSG00000166405,RIC3,7,Chaperone,nan,variable
+ENSG00000179119,SPTY2D1,0,Chaperone,nan,variable
+ENSG00000170946,DNAJC24,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000149136,SSRP1,0,Chaperone,nan,core
+ENSG00000134809,TIMM10,0,Chaperone,nan,core
+ENSG00000213593,TMX2,0,Folding enzyme,nan,core
+ENSG00000168439,STIP1,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000110011,DNAJC4,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000173486,FKBP2,2,Folding enzyme,FKBP type,variable
+ENSG00000110711,AIP,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000162129,CLPB,4,Chaperone,nan,variable
+ENSG00000187726,DNAJB13,10,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000149380,P4HA3,14,Maturation and folding of specific substrates,nan,variable
+ENSG00000149257,SERPINH1,9,Maturation and folding of specific substrates,nan,variable
+ENSG00000110172,CHORDC1,0,Chaperone,HSP90 cochaperone,variable
+ENSG00000109846,CRYAB,14,Chaperone,small HSP,variable
+ENSG00000170276,HSPB2,13,Chaperone,small HSP,variable
+ENSG00000150773,PIH1D2,5,Chaperone,HSP90 cochaperone,variable
+ENSG00000150779,TIMM8B,4,Chaperone,nan,variable
+ENSG00000149428,HYOU1,2,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000109971,HSPA8,2,Chaperone,HSP70,variable
+ENSG00000004478,FKBP4,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000110811,P3H3,10,Maturation and folding of specific substrates,nan,variable
+ENSG00000215021,PHB2,3,Chaperone,nan,variable
+ENSG00000139055,ERP27,10,Folding enzyme,nan,variable
+ENSG00000005175,RPAP3,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000134285,FKBP11,6,Folding enzyme,FKBP type,variable
+ENSG00000178401,DNAJC22,18,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000123349,PFDN5,0,Chaperone,CCT/TRiC cochaperone,core
+ENSG00000135392,DNAJC14,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000110958,PTGES3,0,Chaperone,HSP90 cochaperone,core
+ENSG00000166226,CCT2,1,Chaperone,CCT/TRiC subunit,variable
+ENSG00000187109,NAP1L1,3,Chaperone,nan,variable
+ENSG00000179941,BBS10,2,Chaperone,sequence similar non-CCT/TRiC subunit,variable
+ENSG00000166598,HSP90B1,3,Chaperone,HSP90,variable
+ENSG00000198855,FICD,5,Chaperone,HSP70 activity modulator,variable
+ENSG00000089248,ERP29,1,Folding enzyme,nan,variable
+ENSG00000152137,HSPB8,18,Chaperone,small HSP,variable
+ENSG00000151835,SACS,7,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000120694,HSPH1,5,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000120675,DNAJC15,4,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000165416,SUGT1,0,Chaperone,HSP90 cochaperone,variable
+ENSG00000102580,DNAJC3,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000092201,SUPT16H,0,Chaperone,nan,core
+ENSG00000196497,IPO4,5,Chaperone,nan,variable
+ENSG00000100442,FKBP3,2,Folding enzyme,FKBP type,variable
+ENSG00000139921,TMX1,0,Folding enzyme,nan,variable
+ENSG00000087301,TXNDC16,3,Folding enzyme,nan,variable
+ENSG00000100575,TIMM9,0,Chaperone,nan,core
+ENSG00000126803,HSPA2,17,Chaperone,HSP70,variable
+ENSG00000100591,AHSA1,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000080824,HSP90AA1,0,Chaperone,HSP90,core
+ENSG00000166170,BAG5,1,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000104129,DNAJC17,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000167004,PDIA3,4,Folding enzyme,nan,variable
+ENSG00000256061,DYX1C1,7,Chaperone,HSP90 cochaperone,variable
+ENSG00000166794,PPIB,3,Folding enzyme,Cyclophilin type,variable
+ENSG00000074696,HACD3,6,Chaperone,HSP90 cochaperone,variable
+ENSG00000140403,DNAJA4,10,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000140553,UNC45A,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000185615,PDIA2,18,Folding enzyme,nan,variable
+ENSG00000103266,STUB1,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000127554,GFER,0,Folding enzyme,nan,core
+ENSG00000126602,TRAP1,1,Chaperone,HSP90,variable
+ENSG00000103423,DNAJA3,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000118900,UBN1,2,Chaperone,nan,variable
+ENSG00000153066,TXNDC11,4,Folding enzyme,nan,variable
+ENSG00000169340,PDILT,5,Folding enzyme,nan,variable
+ENSG00000069345,DNAJA2,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000109111,SUPT6H,1,Chaperone,nan,variable
+ENSG00000132141,CCT6B,5,Chaperone,CCT/TRiC subunit,variable
+ENSG00000141161,UNC45B,19,Chaperone,HSP90 cochaperone,variable
+ENSG00000141756,FKBP10,11,Folding enzyme,FKBP type,variable
+ENSG00000168259,DNAJC7,1,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000260325,HSPB9,3,Chaperone,small HSP,variable
+ENSG00000266967,AARSD1,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000167085,PHB,2,Chaperone,nan,variable
+ENSG00000185624,P4HB,8,Folding enzyme,nan,variable
+ENSG00000141556,TBCD,0,Chaperone,CCT/TRiC cochaperone,core
+ENSG00000166479,TMX3,2,Folding enzyme,nan,variable
+ENSG00000172270,BSG,3,Chaperone,nan,variable
+ENSG00000099800,TIMM13,3,Chaperone,nan,variable
+ENSG00000104969,SGTA,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000167670,CHAF1A,4,Chaperone,nan,variable
+ENSG00000174917,C19orf70,2,Membrane protein folding,nan,variable
+ENSG00000105401,CDC37,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000105011,ASF1B,10,Chaperone,nan,variable
+ENSG00000132002,DNAJB1,4,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000130309,COLGALT1,2,Maturation and folding of specific substrates,nan,variable
+ENSG00000105701,FKBP8,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000105176,URI1,0,Chaperone,CCT/TRiC cochaperone,core
+ENSG00000004776,HSPB6,21,Chaperone,small HSP,variable
+ENSG00000105254,TBCB,2,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000011485,PPP5C,0,Chaperone,HSP90 cochaperone,core
+ENSG00000104872,PIH1D1,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000133265,HSPBP1,2,Chaperone,HSP70 nucleotide exchange factor,variable
+ENSG00000088832,FKBP1A,3,Folding enzyme,FKBP type,variable
+ENSG00000132622,HSPA12B,8,Chaperone,HSP70,variable
+ENSG00000125827,TMX4,3,Folding enzyme,nan,variable
+ENSG00000125863,MKKS,2,Chaperone,sequence similar non-CCT/TRiC subunit,variable
+ENSG00000101343,CRNKL1,1,Chaperone,HSP90 cochaperone,variable
+ENSG00000088356,PDRG1,1,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000025772,TOMM34,4,Chaperone,HSP90 cochaperone,variable
+ENSG00000101132,PFDN4,2,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000101152,DNAJC5,6,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000155304,HSPA13,5,Chaperone,HSP70,variable
+ENSG00000156261,CCT8,1,Chaperone,CCT/TRiC subunit,variable
+ENSG00000177692,DNAJC28,12,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000159259,CHAF1B,7,Chaperone,nan,variable
+ENSG00000198445,CCT8L2,5,Chaperone,CCT/TRiC subunit,variable
+ENSG00000100084,HIRA,1,Chaperone,nan,variable
+ENSG00000100023,PPIL2,0,Folding enzyme,Cyclophilin type,core
+ENSG00000099991,CABIN1,1,Chaperone,nan,variable
+ENSG00000100209,HSCB,2,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000100380,ST13,2,Chaperone,HSP90 cochaperone,variable
+ENSG00000172404,DNAJB7,4,Chaperone,J-domain containing HSP70 cochaperone,variable
+ENSG00000100347,SAMM50,1,Membrane protein folding,nan,variable
+ENSG00000102054,RBBP7,2,Chaperone,nan,variable
+ENSG00000123131,PRDX4,7,Folding enzyme,nan,variable
+ENSG00000184831,APOO,8,Membrane protein folding,nan,variable
+ENSG00000126756,UXT,3,Chaperone,CCT/TRiC cochaperone,variable
+ENSG00000147166,ITGB1BP2,17,Chaperone,HSP90 cochaperone,variable
+ENSG00000186462,NAP1L2,16,Chaperone,nan,variable
+ENSG00000085224,ATRX,1,Chaperone,nan,variable
+ENSG00000155008,APOOL,3,Membrane protein folding,nan,variable
+ENSG00000186310,NAP1L3,21,Chaperone,nan,variable
+ENSG00000126953,TIMM8A,2,Chaperone,nan,variable
+ENSG00000080572,PIH1D3,6,Chaperone,HSP90 cochaperone,variable
+ENSG00000155959,VBP1,3,Chaperone,CCT/TRiC cochaperone,variable

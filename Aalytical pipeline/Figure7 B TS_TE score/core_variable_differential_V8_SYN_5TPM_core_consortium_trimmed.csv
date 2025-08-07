@@ -1,0 +1,325 @@
+ENSG,Name,abs expressing tissues,Class,Type,core/var
+ENSG00000116251,RPL22,2,Ribosome,nan,variable
+ENSG00000171824,EXOSC10,0,Ribosome biogenesis factor,nan,core
+ENSG00000053372,MRTO4,0,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000169914,OTUD3,2,Ribosome-associated QC,nan,variable
+ENSG00000075151,EIF4G3,1,Translation initiation,nan,variable
+ENSG00000142676,RPL11,3,Ribosome,nan,variable
+ENSG00000084623,EIF3I,2,Translation initiation,nan,variable
+ENSG00000134684,YARS,0,Translation elongation,nan,variable
+ENSG00000134697,GNL2,0,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000090621,PABPC4,1,Translation initiation,nan,variable
+ENSG00000142937,RPS8,4,Ribosome,nan,variable
+ENSG00000070785,EIF2B3,1,Translation initiation,nan,variable
+ENSG00000122406,RPL5,3,Ribosome,nan,variable
+ENSG00000031698,SARS,1,Translation elongation,nan,variable
+ENSG00000065183,WDR3,1,Ribosome biogenesis factor,UTP-B complex,variable
+ENSG00000143621,ILF2,0,Ribosome biogenesis factor,NF45-NF90 complex,core
+ENSG00000177954,RPS27,4,Ribosome,nan,variable
+ENSG00000143319,ISG20L2,2,Ribosome biogenesis factor,nan,variable
+ENSG00000143222,UFC1,0,Ribosome-associated QC,nan,core
+ENSG00000143258,USP21,0,Ribosome-associated QC,nan,core
+ENSG00000081721,DUSP12,0,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000143486,EIF2D,1,Translation termination,nan,variable
+ENSG00000136628,EPRS,2,Translation elongation,nan,variable
+ENSG00000119285,HEATR1,1,Ribosome biogenesis factor,UTP-A complex,variable
+ENSG00000171863,RPS7,1,Ribosome,nan,variable
+ENSG00000115761,NOL10,0,Ribosome biogenesis factor,ANN complex,variable
+ENSG00000115211,EIF2B4,0,Translation initiation,nan,core
+ENSG00000163811,WDR43,0,Ribosome biogenesis factor,UTP-A complex,variable
+ENSG00000143947,RPS27A,2,Ribosome,nan,variable
+ENSG00000115946,PNO1,0,Ribosome biogenesis factor,nan,variable
+ENSG00000124383,MPHOSPH10,1,Ribosome biogenesis factor,IMP3-IMP4 complex,variable
+ENSG00000158417,EIF5B,2,Ribosome biogenesis factor,nan,variable
+ENSG00000071082,RPL31,4,Ribosome,nan,variable
+ENSG00000136718,IMP4,0,Ribosome biogenesis factor,IMP3-IMP4 complex,core
+ENSG00000115866,DARS,1,Translation elongation,nan,variable
+ENSG00000091436,MAP3K20,14,Ribosome-associated QC,nan,variable
+ENSG00000115368,WDR75,1,Ribosome biogenesis factor,UTP-A complex,variable
+ENSG00000082153,BZW1,0,Translation initiation,nan,core
+ENSG00000055044,NOP58,0,Ribosome biogenesis factor,U3 snoRNP complex,core
+ENSG00000138442,WDR12,3,Ribosome biogenesis factor,PeBoW complex,variable
+ENSG00000114942,EEF1B2,2,Translation elongation,nan,variable
+ENSG00000197756,RPL37A,1,Ribosome,nan,variable
+ENSG00000163516,ANKZF1,3,Ribosome-associated QC,nan,variable
+ENSG00000116120,FARSB,0,Translation elongation,nan,core
+ENSG00000135930,EIF4E2,1,Translation initiation,nan,variable
+ENSG00000204120,GIGYF2,2,Ribosome-associated QC,nan,variable
+ENSG00000075975,MKRN2,2,Ribosome-associated QC,nan,variable
+ENSG00000144713,RPL32,4,Ribosome,nan,variable
+ENSG00000174748,RPL15,1,Ribosome,nan,variable
+ENSG00000168028,RPSA,5,Ribosome,nan,variable
+ENSG00000188846,RPL14,2,Ribosome,nan,variable
+ENSG00000172053,QARS,2,Translation elongation,nan,variable
+ENSG00000114767,RRP9,1,Ribosome biogenesis factor,U3 snoRNP complex,variable
+ENSG00000162244,RPL29,5,Ribosome,nan,variable
+ENSG00000163412,EIF4E3,5,Translation initiation,nan,variable
+ENSG00000114391,RPL24,2,Ribosome,nan,variable
+ENSG00000132394,EEFSEC,0,Translation elongation,nan,core
+ENSG00000081307,UBA5,1,Ribosome-associated QC,nan,variable
+ENSG00000144895,EIF2A,1,Translation initiation,nan,variable
+ENSG00000169251,NMD3,2,Ribosome biogenesis factor,nan,variable
+ENSG00000163577,EIF5A2,6,Translation elongation,nan,variable
+ENSG00000145191,EIF2B5,1,Translation initiation,nan,variable
+ENSG00000114867,EIF4G1,1,Translation initiation,nan,variable
+ENSG00000156976,EIF4A2,2,Translation initiation,nan,variable
+ENSG00000163923,RPL39L,8,Ribosome,nan,variable
+ENSG00000041802,LSG1,0,Ribosome biogenesis factor,non 5S RNP complex,core
+ENSG00000182899,RPL35A,2,Ribosome,nan,variable
+ENSG00000087269,NOP14,1,Ribosome biogenesis factor,EMG1 complex,variable
+ENSG00000109606,DHX15,0,Ribosome biogenesis factor,XND complex,core
+ENSG00000109618,SEPSECS,1,Translation elongation,nan,variable
+ENSG00000168228,ZCCHC4,1,Ribosome biogenesis factor,nan,variable
+ENSG00000163682,RPL9,2,Ribosome,nan,variable
+ENSG00000151247,EIF4E,0,Translation initiation,nan,variable
+ENSG00000164022,AIMP1,2,Translation elongation,nan,variable
+ENSG00000109475,RPL34,3,Ribosome,nan,variable
+ENSG00000109534,GAR1,1,Ribosome biogenesis factor,nan,variable
+ENSG00000164163,ABCE1,1,Translation termination,nan,variable
+ENSG00000145425,RPS3A,2,Ribosome,nan,variable
+ENSG00000198498,TMA16,2,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000109775,UFSP2,2,Ribosome-associated QC,nan,variable
+ENSG00000179059,ZFP42,5,Ribosome biogenesis factor,nan,variable
+ENSG00000113407,TARS,1,Translation elongation,nan,variable
+ENSG00000168724,DNAJC21,3,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000145592,RPL37,2,Ribosome,nan,variable
+ENSG00000152684,PELO,3,Ribosome-associated QC,nan,variable
+ENSG00000067248,DHX29,1,Translation initiation,nan,variable
+ENSG00000086189,DIMT1,0,Ribosome biogenesis factor,nan,variable
+ENSG00000164338,UTP15,1,Ribosome biogenesis factor,UTP-A complex,variable
+ENSG00000186468,RPS23,2,Ribosome,nan,variable
+ENSG00000058729,RIOK2,0,Ribosome biogenesis factor,nan,variable
+ENSG00000134987,WDR36,1,Ribosome biogenesis factor,UTP-B complex,variable
+ENSG00000120705,ETF1,2,Translation termination,nan,variable
+ENSG00000243056,EIF4EBP3,4,Translation initiation,nan,variable
+ENSG00000170445,HARS,0,Translation elongation,nan,core
+ENSG00000133706,LARS,1,Translation elongation,nan,variable
+ENSG00000164587,RPS14,4,Ribosome,nan,variable
+ENSG00000113643,RARS,1,Translation elongation,nan,variable
+ENSG00000037241,RPL26L1,2,Ribosome,nan,variable
+ENSG00000145912,NHP2,0,Ribosome biogenesis factor,nan,core
+ENSG00000204628,RACK1,5,Ribosome biogenesis factor,nan,variable
+ENSG00000124784,RIOK1,0,Ribosome biogenesis factor,nan,variable
+ENSG00000124802,EEF1E1,2,Translation elongation,nan,variable
+ENSG00000204435,CSNK2B,0,Ribosome biogenesis factor,UTP-C complex,core
+ENSG00000204394,VARS,1,Translation elongation,nan,variable
+ENSG00000231500,RPS18,4,Ribosome,nan,variable
+ENSG00000124614,RPS10,2,Ribosome,nan,variable
+ENSG00000198755,RPL10A,3,Ribosome,nan,variable
+ENSG00000112578,BYSL,2,Ribosome biogenesis factor,nan,variable
+ENSG00000146223,RPL7L1,1,Ribosome,nan,variable
+ENSG00000124541,RRP36,0,Ribosome biogenesis factor,UTP-C complex,core
+ENSG00000172432,GTPBP2,2,Ribosome-associated QC,nan,variable
+ENSG00000156508,EEF1A1,7,Translation elongation,nan,variable
+ENSG00000014123,UFL1,2,Ribosome-associated QC,nan,variable
+ENSG00000112249,ASCC3,0,Ribosome-associated QC,nan,variable
+ENSG00000197498,RPF2,2,Ribosome biogenesis factor,5S RNP complex,variable
+ENSG00000112306,RPS12,4,Ribosome,nan,variable
+ENSG00000112339,HBS1L,2,Ribosome-associated QC,nan,variable
+ENSG00000135521,LTV1,1,Ribosome biogenesis factor,nan,variable
+ENSG00000106263,EIF3B,0,Translation initiation,nan,core
+ENSG00000106305,AIMP2,3,Translation elongation,nan,variable
+ENSG00000136261,BZW2,9,Translation initiation,nan,variable
+ENSG00000106105,GARS,0,Translation elongation,nan,core
+ENSG00000126524,SBDS,4,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000130305,NSUN5,2,Ribosome biogenesis factor,nan,variable
+ENSG00000071462,WBSCR22,2,Ribosome biogenesis factor,nan,variable
+ENSG00000106682,EIF4H,0,Translation initiation,nan,core
+ENSG00000146830,GIGYF1,0,Ribosome-associated QC,nan,core
+ENSG00000080802,CNOT4,1,Ribosome-associated QC,nan,variable
+ENSG00000133606,MKRN1,2,Ribosome-associated QC,nan,variable
+ENSG00000033050,ABCF2,1,Ribosome-associated QC,nan,variable
+ENSG00000104626,ERI1,2,Ribosome biogenesis factor,nan,variable
+ENSG00000187840,EIF4EBP1,11,Translation initiation,nan,variable
+ENSG00000008988,RPS20,2,Ribosome,nan,variable
+ENSG00000179041,RRS1,3,Ribosome biogenesis factor,5S RNP complex,variable
+ENSG00000147604,RPL7,2,Ribosome,nan,variable
+ENSG00000156482,RPL30,5,Ribosome,nan,variable
+ENSG00000070756,PABPC1,6,Translation initiation,nan,variable
+ENSG00000104408,EIF3E,3,Translation initiation,nan,variable
+ENSG00000147677,EIF3H,1,Translation initiation,nan,variable
+ENSG00000104529,EEF1D,1,Translation elongation,nan,variable
+ENSG00000261236,BOP1,3,Ribosome biogenesis factor,PeBoW complex,variable
+ENSG00000161016,RPL8,4,Ribosome,nan,variable
+ENSG00000120158,RCL1,3,Ribosome biogenesis factor,RCL1-BMS1 complex,variable
+ENSG00000137154,RPS6,4,Ribosome,nan,variable
+ENSG00000165271,NOL6,0,Ribosome biogenesis factor,UTP-C complex,core
+ENSG00000165280,VCP,1,Translation initiation,nan,variable
+ENSG00000187742,SECISBP2,0,Translation elongation,nan,variable
+ENSG00000196305,IARS,1,Translation elongation,nan,variable
+ENSG00000136891,TEX10,0,Ribosome biogenesis factor,Rix1 complex,variable
+ENSG00000136942,RPL35,3,Ribosome,nan,variable
+ENSG00000197958,RPL12,5,Ribosome,nan,variable
+ENSG00000148303,RPL7A,4,Ribosome,nan,variable
+ENSG00000107223,EDF1,1,Ribosome-associated QC,nan,variable
+ENSG00000107937,GTPBP4,2,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000151461,UPF2,0,Translation termination,nan,core
+ENSG00000165733,BMS1,1,Ribosome biogenesis factor,RCL1-BMS1 complex,variable
+ENSG00000165732,DDX21,3,Ribosome biogenesis factor,UTP-B complex,variable
+ENSG00000148730,EIF4EBP2,3,Translation initiation,nan,variable
+ENSG00000138303,ASCC1,0,Ribosome-associated QC,nan,variable
+ENSG00000138326,RPS24,4,Ribosome,nan,variable
+ENSG00000253626,EIF5AL1,3,Translation elongation,nan,variable
+ENSG00000052749,RRP12,3,Ribosome biogenesis factor,nan,variable
+ENSG00000107581,EIF3A,1,Translation initiation,nan,variable
+ENSG00000179988,PSTK,0,Translation elongation,nan,variable
+ENSG00000107949,BCCIP,0,Ribosome biogenesis factor,nan,variable
+ENSG00000177600,RPLP2,5,Ribosome,nan,variable
+ENSG00000110619,CARS,1,Translation elongation,nan,variable
+ENSG00000132275,RRP8,0,Ribosome biogenesis factor,nan,variable
+ENSG00000175390,EIF3F,1,Translation initiation,nan,variable
+ENSG00000166441,RPL27A,3,Ribosome,nan,variable
+ENSG00000110321,EIF4G2,1,Translation initiation,nan,variable
+ENSG00000110700,RPS13,3,Ribosome,nan,variable
+ENSG00000149100,EIF3M,0,Translation initiation,nan,core
+ENSG00000135372,NAT10,0,Ribosome biogenesis factor,nan,core
+ENSG00000254772,EEF1G,6,Translation elongation,nan,variable
+ENSG00000173113,TRMT112,0,Ribosome biogenesis factor,nan,core
+ENSG00000149806,FAU,1,Ribosome,nan,variable
+ENSG00000149273,RPS3,5,Ribosome,nan,variable
+ENSG00000076043,REXO2,4,Ribosome biogenesis factor,nan,variable
+ENSG00000118181,RPS25,4,Ribosome,nan,variable
+ENSG00000111641,NOP2,1,Ribosome biogenesis factor,UTP-B complex,variable
+ENSG00000126749,EMG1,0,Ribosome biogenesis factor,EMG1 complex,core
+ENSG00000063046,EIF4B,3,Translation initiation,nan,variable
+ENSG00000197728,RPS26,2,Ribosome,nan,variable
+ENSG00000229117,RPL41,3,Ribosome,nan,variable
+ENSG00000166986,MARS,0,Translation elongation,nan,core
+ENSG00000139233,LLPH,0,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000089009,RPL6,2,Ribosome,nan,variable
+ENSG00000089154,GCN1,1,Ribosome-associated QC,nan,variable
+ENSG00000089157,RPLP0,9,Ribosome,nan,variable
+ENSG00000139726,DENR,2,Translation termination,nan,variable
+ENSG00000111361,EIF2B1,0,Translation initiation,nan,core
+ENSG00000184967,NOC4L,1,Ribosome biogenesis factor,EMG1 complex,variable
+ENSG00000151846,PABPC3,4,Translation initiation,nan,variable
+ENSG00000122026,RPL21,2,Ribosome,nan,variable
+ENSG00000120686,UFM1,2,Ribosome-associated QC,nan,variable
+ENSG00000083520,DIS3,0,Ribosome biogenesis factor,nan,variable
+ENSG00000169062,UPF3A,2,Translation termination,nan,variable
+ENSG00000129460,NGDN,0,Ribosome biogenesis factor,ANN complex,core
+ENSG00000129480,DTD2,2,Translation elongation,nan,variable
+ENSG00000165496,RPL10L,2,Ribosome,nan,variable
+ENSG00000213741,RPS29,2,Ribosome,nan,variable
+ENSG00000165502,RPL36AL,0,Ribosome,nan,core
+ENSG00000165525,NEMF,1,Ribosome-associated QC,nan,variable
+ENSG00000134001,EIF2S1,2,Translation initiation,nan,variable
+ENSG00000119616,FCF1,0,Ribosome biogenesis factor,nan,variable
+ENSG00000119718,EIF2B2,0,Translation initiation,nan,variable
+ENSG00000140105,WARS,5,Translation elongation,nan,variable
+ENSG00000100664,EIF5,1,Translation initiation,nan,variable
+ENSG00000182117,NOP10,2,Ribosome biogenesis factor,nan,variable
+ENSG00000104131,EIF3J,1,Translation initiation,nan,variable
+ENSG00000137876,RSL24D1,1,Ribosome biogenesis factor,nan,variable
+ENSG00000185088,RPS27L,5,Ribosome,nan,variable
+ENSG00000103671,TRIP4,0,Ribosome-associated QC,nan,variable
+ENSG00000174444,RPL4,2,Ribosome,nan,variable
+ENSG00000137818,RPLP1,7,Ribosome,nan,variable
+ENSG00000177971,IMP3,1,Ribosome biogenesis factor,IMP3-IMP4 complex,variable
+ENSG00000140598,EFL1,1,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000182774,RPS17,3,Ribosome,nan,variable
+ENSG00000185418,TARSL2,5,Translation elongation,nan,variable
+ENSG00000007520,TSR3,0,Ribosome biogenesis factor,nan,core
+ENSG00000140986,RPL3L,15,Ribosome,nan,variable
+ENSG00000140988,RPS2,6,Ribosome,nan,variable
+ENSG00000183751,TBL3,1,Ribosome biogenesis factor,UTP-B complex,variable
+ENSG00000167962,ZNF598,1,Ribosome-associated QC,nan,variable
+ENSG00000118894,EEF2KMT,1,Translation elongation,nan,variable
+ENSG00000103342,GSPT1,1,Translation termination,nan,variable
+ENSG00000140694,PARN,0,Ribosome biogenesis factor,nan,core
+ENSG00000134419,RPS15A,4,Ribosome,nan,variable
+ENSG00000103319,EEF2K,10,Translation elongation,nan,variable
+ENSG00000184110,EIF3C,1,Translation initiation,nan,variable
+ENSG00000155393,HEATR3,2,Ribosome biogenesis factor,5S RNP complex,variable
+ENSG00000141076,UTP4,1,Ribosome biogenesis factor,UTP-A complex,variable
+ENSG00000141101,NOB1,2,Ribosome biogenesis factor,nan,variable
+ENSG00000090861,AARS,3,Translation elongation,nan,variable
+ENSG00000065427,KARS,1,Translation elongation,nan,variable
+ENSG00000103194,USP10,2,Ribosome-associated QC,nan,variable
+ENSG00000167526,RPL13,4,Ribosome,nan,variable
+ENSG00000141002,TCF25,0,Ribosome-associated QC,nan,core
+ENSG00000167721,TSR1,2,Ribosome biogenesis factor,nan,variable
+ENSG00000141456,PELP1,0,Ribosome biogenesis factor,Rix1 complex,core
+ENSG00000132507,EIF5A,2,Translation elongation,nan,variable
+ENSG00000161960,EIF4A1,3,Translation initiation,nan,variable
+ENSG00000161970,RPL26,3,Ribosome,nan,variable
+ENSG00000108591,DRG2,0,Ribosome-associated QC,nan,core
+ENSG00000198242,RPL23A,4,Ribosome,nan,variable
+ENSG00000108651,UTP6,0,Ribosome biogenesis factor,UTP-B complex,core
+ENSG00000275700,AATF,1,Ribosome biogenesis factor,ANN complex,variable
+ENSG00000125691,RPL23,3,Ribosome,nan,variable
+ENSG00000108298,RPL19,4,Ribosome,nan,variable
+ENSG00000173812,EIF1,2,Translation initiation,nan,variable
+ENSG00000131469,RPL27,2,Ribosome,nan,variable
+ENSG00000108465,CDK5RAP3,0,Ribosome-associated QC,nan,core
+ENSG00000011260,UTP18,1,Ribosome biogenesis factor,UTP-B complex,variable
+ENSG00000130935,NOL11,1,Ribosome biogenesis factor,UTP-A complex,variable
+ENSG00000172809,RPL38,1,Ribosome,nan,variable
+ENSG00000182446,NPLOC4,1,Ribosome-associated QC,nan,variable
+ENSG00000101782,RIOK3,4,Ribosome biogenesis factor,nan,variable
+ENSG00000265681,RPL17,3,Ribosome,nan,variable
+ENSG00000134440,NARS,2,Translation elongation,nan,variable
+ENSG00000065268,WDR18,0,Ribosome biogenesis factor,Rix1 complex,core
+ENSG00000115268,RPS15,3,Ribosome,nan,variable
+ENSG00000167658,EEF2,2,Translation elongation,nan,variable
+ENSG00000130255,RPL36,4,Ribosome,nan,variable
+ENSG00000233927,RPS28,4,Ribosome,nan,variable
+ENSG00000130811,EIF3G,2,Translation initiation,nan,variable
+ENSG00000129351,ILF3,0,Ribosome biogenesis factor,NF45-NF90 complex,core
+ENSG00000179115,FARSA,1,Translation elongation,nan,variable
+ENSG00000105640,RPL18A,5,Ribosome,nan,variable
+ENSG00000221983,UBA52,1,Ribosome,nan,variable
+ENSG00000005007,UPF1,0,Translation termination,nan,core
+ENSG00000178982,EIF3K,3,Translation initiation,nan,variable
+ENSG00000105193,RPS16,5,Ribosome,nan,variable
+ENSG00000105202,FBL,2,Ribosome biogenesis factor,U3 snoRNP complex,variable
+ENSG00000105372,RPS19,7,Ribosome,nan,variable
+ENSG00000105373,GLTSCR2,6,Ribosome biogenesis factor,5S RNP complex,variable
+ENSG00000063177,RPL18,3,Ribosome,nan,variable
+ENSG00000142541,RPL13A,4,Ribosome,nan,variable
+ENSG00000142534,RPS11,4,Ribosome,nan,variable
+ENSG00000170889,RPS9,4,Ribosome,nan,variable
+ENSG00000108107,RPL28,5,Ribosome,nan,variable
+ENSG00000083845,RPS5,4,Ribosome,nan,variable
+ENSG00000101361,NOP56,0,Ribosome biogenesis factor,U3 snoRNP complex,core
+ENSG00000198171,DDRGK1,0,Ribosome-associated QC,nan,core
+ENSG00000125821,DTD1,1,Translation elongation,nan,variable
+ENSG00000088930,XRN2,0,Ribosome biogenesis factor,XND complex,core
+ENSG00000125977,EIF2S2,1,Translation initiation,nan,variable
+ENSG00000242372,EIF6,2,Ribosome biogenesis factor,non 5S RNP complex,variable
+ENSG00000101104,PABPC1L,9,Translation initiation,nan,variable
+ENSG00000124228,DDX27,1,Ribosome biogenesis factor,PeBoW complex,variable
+ENSG00000101146,RAE1,1,Ribosome biogenesis factor,nan,variable
+ENSG00000171858,RPS21,2,Ribosome,nan,variable
+ENSG00000101210,EEF1A2,27,Translation elongation,nan,variable
+ENSG00000198862,LTN1,0,Ribosome-associated QC,nan,variable
+ENSG00000070010,UFD1L,0,Ribosome-associated QC,nan,core
+ENSG00000100325,ASCC2,4,Ribosome-associated QC,nan,variable
+ENSG00000100029,PES1,0,Ribosome biogenesis factor,PeBoW complex,core
+ENSG00000100353,EIF3D,1,Translation initiation,nan,variable
+ENSG00000100129,EIF3L,5,Translation initiation,nan,variable
+ENSG00000100226,GTPBP1,1,Ribosome-associated QC,nan,variable
+ENSG00000100316,RPL3,5,Ribosome,nan,variable
+ENSG00000100138,SNU13,0,Ribosome biogenesis factor,U3 snoRNP complex,core
+ENSG00000189306,RRP7A,0,Ribosome biogenesis factor,UTP-C complex,core
+ENSG00000173674,EIF1AX,3,Translation initiation,nan,variable
+ENSG00000130741,EIF2S3,2,Translation initiation,nan,variable
+ENSG00000215301,DDX3X,0,Translation initiation,nan,core
+ENSG00000189369,GSPT2,5,Translation termination,nan,variable
+ENSG00000086758,HUWE1,1,Ribosome-associated QC,nan,variable
+ENSG00000158526,TSR2,2,Ribosome biogenesis factor,nan,variable
+ENSG00000147162,OGT,1,Ribosome-associated QC,nan,variable
+ENSG00000198034,RPS4X,4,Ribosome,nan,variable
+ENSG00000184388,PABPC1L2B,29,Translation initiation,nan,variable
+ENSG00000174740,PABPC5,9,Translation initiation,nan,variable
+ENSG00000241343,RPL36A,2,Ribosome,nan,variable
+ENSG00000186416,NKRF,3,Ribosome biogenesis factor,XND complex,variable
+ENSG00000198918,RPL39,3,Ribosome,nan,variable
+ENSG00000125351,UPF3B,0,Translation termination,nan,variable
+ENSG00000232119,MCTS1,1,Translation termination,nan,variable
+ENSG00000156697,UTP14A,1,Ribosome biogenesis factor,EMG1 complex,variable
+ENSG00000147403,RPL10,5,Ribosome,nan,variable
+ENSG00000130826,DKC1,0,Ribosome biogenesis factor,nan,core
+ENSG00000129824,RPS4Y1,9,Ribosome,nan,variable
+ENSG00000067048,DDX3Y,9,Translation initiation,nan,variable
+ENSG00000198692,EIF1AY,11,Translation initiation,nan,variable
